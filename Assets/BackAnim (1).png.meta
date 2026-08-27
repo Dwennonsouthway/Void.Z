@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 198e6f99f478f42c99564303adf92526
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8928258065451938862
+    second: BackAnim (1)_0
+  - first:
+      213: -3393143426707587274
+    second: BackAnim (1)_1
+  - first:
+      213: -9175749728658345184
+    second: BackAnim (1)_2
+  - first:
+      213: -5987577810448292135
+    second: BackAnim (1)_3
+  - first:
+      213: -1575981402779231683
+    second: BackAnim (1)_4
+  - first:
+      213: 1489397874990997842
+    second: BackAnim (1)_5
+  - first:
+      213: -1719256681179080432
+    second: BackAnim (1)_6
+  - first:
+      213: -2679684186763154605
+    second: BackAnim (1)_7
+  - first:
+      213: -7088014782060138445
+    second: BackAnim (1)_8
+  - first:
+      213: -3581689693327040699
+    second: BackAnim (1)_9
+  - first:
+      213: -2305435557559144127
+    second: BackAnim (1)_10
+  - first:
+      213: -774652241215743259
+    second: BackAnim (1)_11
+  - first:
+      213: 7911545229186015
+    second: BackAnim (1)_12
+  - first:
+      213: 594610087664186139
+    second: BackAnim (1)_13
+  - first:
+      213: -351720579817884838
+    second: BackAnim (1)_14
+  - first:
+      213: 4758102932013663826
+    second: BackAnim (1)_15
+  - first:
+      213: 3065585084771710501
+    second: BackAnim (1)_16
+  - first:
+      213: -4461350799393196737
+    second: BackAnim (1)_17
+  - first:
+      213: -9152920649491919928
+    second: BackAnim (1)_18
+  - first:
+      213: -1082817169699420434
+    second: BackAnim (1)_19
+  - first:
+      213: -468791748465771510
+    second: BackAnim (1)_20
+  - first:
+      213: -4659223747802366649
+    second: BackAnim (1)_21
+  - first:
+      213: 6275195836515713766
+    second: BackAnim (1)_22
+  - first:
+      213: 2887370023799320423
+    second: BackAnim (1)_23
+  - first:
+      213: -4274498036130037105
+    second: BackAnim (1)_24
+  - first:
+      213: 1009783592054904993
+    second: BackAnim (1)_25
+  - first:
+      213: -825668523841801392
+    second: BackAnim (1)_26
+  - first:
+      213: 7287712265819690765
+    second: BackAnim (1)_27
+  - first:
+      213: -2842185468661959775
+    second: BackAnim (1)_28
+  - first:
+      213: 771090564539387912
+    second: BackAnim (1)_29
+  - first:
+      213: -5979633346524808328
+    second: BackAnim (1)_30
+  - first:
+      213: 2787898999747300596
+    second: BackAnim (1)_31
+  - first:
+      213: 3489420451594643934
+    second: BackAnim (1)_32
+  - first:
+      213: -1036282301857447246
+    second: BackAnim (1)_33
+  - first:
+      213: -2151716526898108490
+    second: BackAnim (1)_34
+  - first:
+      213: -8909824190833497567
+    second: BackAnim (1)_35
+  - first:
+      213: 7435773250315346668
+    second: BackAnim (1)_36
+  - first:
+      213: -6834637360575705906
+    second: BackAnim (1)_37
+  - first:
+      213: 1216172973488486402
+    second: BackAnim (1)_38
+  - first:
+      213: -6717973787486006535
+    second: BackAnim (1)_39
+  - first:
+      213: 1825517167880689427
+    second: BackAnim (1)_40
+  - first:
+      213: 8000120928043804599
+    second: BackAnim (1)_41
+  - first:
+      213: 3647257055708872831
+    second: BackAnim (1)_42
+  - first:
+      213: -4960079762833410609
+    second: BackAnim (1)_43
+  - first:
+      213: 4745413102402411307
+    second: BackAnim (1)_44
+  - first:
+      213: 3517638527847576581
+    second: BackAnim (1)_45
+  - first:
+      213: 5472764184038505086
+    second: BackAnim (1)_46
+  - first:
+      213: -2556887694707192355
+    second: BackAnim (1)_47
+  - first:
+      213: 537788604346255309
+    second: BackAnim (1)_48
+  - first:
+      213: 1426592518445314547
+    second: BackAnim (1)_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 280
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackAnim (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4904
+        width: 336
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e247746186b87eb70800000000000000
+      internalID: 8928258065451938862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 4904
+        width: 337
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7423f70229e0d0800000000000000
+      internalID: -3393143426707587274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4898
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023be6bac3039a080800000000000000
+      internalID: -9175749728658345184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4898
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e73774b9d7eca0800000000000000
+      internalID: -5987577810448292135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 4905
+        width: 336
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ad8ba934df02ae0800000000000000
+      internalID: -1575981402779231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 4879
+        width: 338
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516f04e9776ba410800000000000000
+      internalID: 1489397874990997842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 4905
+        width: 336
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199a905829f328e0800000000000000
+      internalID: -1719256681179080432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4858
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b20c10e69dfcad0800000000000000
+      internalID: -2679684186763154605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4855
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33076901c1052ad90800000000000000
+      internalID: -7088014782060138445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4293
+        width: 336
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f509553384b4ec0800000000000000
+      internalID: -3581689693327040699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 4292
+        width: 337
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f12b33927100e0800000000000000
+      internalID: -2305435557559144127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 4847
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea10e114e1ef35f0800000000000000
+      internalID: -774652241215743259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_12
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 4293
+        width: 336
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3920b228b1c1000800000000000000
+      internalID: 7911545229186015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 4293
+        width: 338
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13761f69ba704800800000000000000
+      internalID: 594610087664186139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 4293
+        width: 337
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b2c30fff6e1bf0800000000000000
+      internalID: -351720579817884838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3681
+        width: 336
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2564b6b386d280240800000000000000
+      internalID: 4758102932013663826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3680
+        width: 337
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526bd8674652b8a20800000000000000
+      internalID: 3065585084771710501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_17
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3681
+        width: 336
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3573cfc5191612c0800000000000000
+      internalID: -4461350799393196737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 3679
+        width: 337
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb42bdd92b4af080800000000000000
+      internalID: -9152920649491919928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 3681
+        width: 337
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee64f5b658f09f0f0800000000000000
+      internalID: -1082817169699420434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3067
+        width: 336
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c301773648e79f0800000000000000
+      internalID: -468791748465771510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3067
+        width: 337
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dfc2fdfac175fb0800000000000000
+      internalID: -4659223747802366649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_22
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3068
+        width: 337
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2878bad59f51750800000000000000
+      internalID: 6275195836515713766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 3059
+        width: 338
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f6bab1dbff11820800000000000000
+      internalID: 2887370023799320423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 3067
+        width: 335
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f824d53feaeeda4c0800000000000000
+      internalID: -4274498036130037105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2455
+        width: 336
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85370b3d8730e00800000000000000
+      internalID: 1009783592054904993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2456
+        width: 337
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05330362ad2aa84f0800000000000000
+      internalID: -825668523841801392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_27
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2456
+        width: 337
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07907d91b7232560800000000000000
+      internalID: 7287712265819690765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2456
+        width: 338
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a370a2ff578e88d0800000000000000
+      internalID: -2842185468661959775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2456
+        width: 335
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800960578c673ba00800000000000000
+      internalID: 771090564539387912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1839
+        width: 336
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bfe4d1723140da0800000000000000
+      internalID: -5979633346524808328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1844
+        width: 337
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcca9d8e5b90b620800000000000000
+      internalID: 2787898999747300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_32
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1844
+        width: 337
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed92849b969ec6030800000000000000
+      internalID: 3489420451594643934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1844
+        width: 338
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b243c6acb26e91f0800000000000000
+      internalID: -1036282301857447246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1844
+        width: 336
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7a6e418319322e0800000000000000
+      internalID: -2151716526898108490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1232
+        width: 336
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aef2eca12f95480800000000000000
+      internalID: -8909824190833497567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1232
+        width: 337
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e56fef5c213760800000000000000
+      internalID: 7435773250315346668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_37
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1231
+        width: 336
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc8542388d7621a0800000000000000
+      internalID: -6834637360575705906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1232
+        width: 338
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208363630e6b0e010800000000000000
+      internalID: 1216172973488486402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1232
+        width: 335
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2d2820f66f4c2a0800000000000000
+      internalID: -6717973787486006535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 620
+        width: 336
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317d7e2313a855910800000000000000
+      internalID: 1825517167880689427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 620
+        width: 337
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7283cf893260f60800000000000000
+      internalID: 8000120928043804599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_42
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 620
+        width: 336
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70801ad7f8ad9230800000000000000
+      internalID: 3647257055708872831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 620
+        width: 338
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5f5be3cb14a2bb0800000000000000
+      internalID: -4960079762833410609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 620
+        width: 335
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b1e2903181bd140800000000000000
+      internalID: 4745413102402411307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 336
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50435949a9921d030800000000000000
+      internalID: 3517638527847576581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 7
+        width: 337
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a7819870a23fb40800000000000000
+      internalID: 5472764184038505086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_47
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 7
+        width: 336
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd096a403c148cd0800000000000000
+      internalID: -2556887694707192355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 7
+        width: 338
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7cf46e2eb967700800000000000000
+      internalID: 537788604346255309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackAnim (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 7
+        width: 339
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1b92d46564cc310800000000000000
+      internalID: 1426592518445314547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BackAnim (1)_0: 8928258065451938862
+      BackAnim (1)_1: -3393143426707587274
+      BackAnim (1)_10: -2305435557559144127
+      BackAnim (1)_11: -774652241215743259
+      BackAnim (1)_12: 7911545229186015
+      BackAnim (1)_13: 594610087664186139
+      BackAnim (1)_14: -351720579817884838
+      BackAnim (1)_15: 4758102932013663826
+      BackAnim (1)_16: 3065585084771710501
+      BackAnim (1)_17: -4461350799393196737
+      BackAnim (1)_18: -9152920649491919928
+      BackAnim (1)_19: -1082817169699420434
+      BackAnim (1)_2: -9175749728658345184
+      BackAnim (1)_20: -468791748465771510
+      BackAnim (1)_21: -4659223747802366649
+      BackAnim (1)_22: 6275195836515713766
+      BackAnim (1)_23: 2887370023799320423
+      BackAnim (1)_24: -4274498036130037105
+      BackAnim (1)_25: 1009783592054904993
+      BackAnim (1)_26: -825668523841801392
+      BackAnim (1)_27: 7287712265819690765
+      BackAnim (1)_28: -2842185468661959775
+      BackAnim (1)_29: 771090564539387912
+      BackAnim (1)_3: -5987577810448292135
+      BackAnim (1)_30: -5979633346524808328
+      BackAnim (1)_31: 2787898999747300596
+      BackAnim (1)_32: 3489420451594643934
+      BackAnim (1)_33: -1036282301857447246
+      BackAnim (1)_34: -2151716526898108490
+      BackAnim (1)_35: -8909824190833497567
+      BackAnim (1)_36: 7435773250315346668
+      BackAnim (1)_37: -6834637360575705906
+      BackAnim (1)_38: 1216172973488486402
+      BackAnim (1)_39: -6717973787486006535
+      BackAnim (1)_4: -1575981402779231683
+      BackAnim (1)_40: 1825517167880689427
+      BackAnim (1)_41: 8000120928043804599
+      BackAnim (1)_42: 3647257055708872831
+      BackAnim (1)_43: -4960079762833410609
+      BackAnim (1)_44: 4745413102402411307
+      BackAnim (1)_45: 3517638527847576581
+      BackAnim (1)_46: 5472764184038505086
+      BackAnim (1)_47: -2556887694707192355
+      BackAnim (1)_48: 537788604346255309
+      BackAnim (1)_49: 1426592518445314547
+      BackAnim (1)_5: 1489397874990997842
+      BackAnim (1)_6: -1719256681179080432
+      BackAnim (1)_7: -2679684186763154605
+      BackAnim (1)_8: -7088014782060138445
+      BackAnim (1)_9: -3581689693327040699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

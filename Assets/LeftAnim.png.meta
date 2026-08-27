@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: f979d93d5cdf94dd88d012736bcfe873
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7138663165548241319
+    second: LeftAnim_0
+  - first:
+      213: -7370332801223874150
+    second: LeftAnim_1
+  - first:
+      213: 8896292946782899586
+    second: LeftAnim_2
+  - first:
+      213: 1274912870621261867
+    second: LeftAnim_3
+  - first:
+      213: -7993546256809535997
+    second: LeftAnim_4
+  - first:
+      213: -2941464770628381292
+    second: LeftAnim_5
+  - first:
+      213: -2824021763132709995
+    second: LeftAnim_6
+  - first:
+      213: 5651065993369673507
+    second: LeftAnim_7
+  - first:
+      213: 261858664329701277
+    second: LeftAnim_8
+  - first:
+      213: -1313638261778419101
+    second: LeftAnim_9
+  - first:
+      213: 8898073940802695671
+    second: LeftAnim_10
+  - first:
+      213: 2804624136608792293
+    second: LeftAnim_11
+  - first:
+      213: 5415592611825407482
+    second: LeftAnim_12
+  - first:
+      213: -7971199572873130266
+    second: LeftAnim_13
+  - first:
+      213: 1033010193591873245
+    second: LeftAnim_14
+  - first:
+      213: -8246962392802283851
+    second: LeftAnim_15
+  - first:
+      213: 4698706123410439348
+    second: LeftAnim_16
+  - first:
+      213: -1636616556786734783
+    second: LeftAnim_17
+  - first:
+      213: -6808902095935469821
+    second: LeftAnim_18
+  - first:
+      213: 4795349769591103960
+    second: LeftAnim_19
+  - first:
+      213: -3187884388800216625
+    second: LeftAnim_20
+  - first:
+      213: 3189178931279795835
+    second: LeftAnim_21
+  - first:
+      213: 6475847174118914443
+    second: LeftAnim_22
+  - first:
+      213: 1912804550763989390
+    second: LeftAnim_23
+  - first:
+      213: -7069762469278660695
+    second: LeftAnim_24
+  - first:
+      213: -1620727938720219191
+    second: LeftAnim_25
+  - first:
+      213: -9209817606564169703
+    second: LeftAnim_26
+  - first:
+      213: 6713500112064324269
+    second: LeftAnim_27
+  - first:
+      213: -4999432842213963654
+    second: LeftAnim_28
+  - first:
+      213: 4759611643821481184
+    second: LeftAnim_29
+  - first:
+      213: -1705522626432512311
+    second: LeftAnim_30
+  - first:
+      213: 6059864167137824653
+    second: LeftAnim_31
+  - first:
+      213: 5495730901342191230
+    second: LeftAnim_32
+  - first:
+      213: -4584829734428002822
+    second: LeftAnim_33
+  - first:
+      213: -6434009837036974919
+    second: LeftAnim_34
+  - first:
+      213: -5712846183982570439
+    second: LeftAnim_35
+  - first:
+      213: -7160698529314719696
+    second: LeftAnim_36
+  - first:
+      213: -7362491632962375573
+    second: LeftAnim_37
+  - first:
+      213: -7450487672166377826
+    second: LeftAnim_38
+  - first:
+      213: -8652239360582091928
+    second: LeftAnim_39
+  - first:
+      213: -4802301591651262485
+    second: LeftAnim_40
+  - first:
+      213: -6530777861844236123
+    second: LeftAnim_41
+  - first:
+      213: 2034834553148666883
+    second: LeftAnim_42
+  - first:
+      213: -704242499687651083
+    second: LeftAnim_43
+  - first:
+      213: 8212327637424036972
+    second: LeftAnim_44
+  - first:
+      213: 387238869519221691
+    second: LeftAnim_45
+  - first:
+      213: 2227079457662458118
+    second: LeftAnim_46
+  - first:
+      213: 7997104222964166087
+    second: LeftAnim_47
+  - first:
+      213: -16071469899968779
+    second: LeftAnim_48
+  - first:
+      213: -5912061270336670975
+    second: LeftAnim_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeftAnim_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6319
+        width: 352
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a12ba9a350a11360800000000000000
+      internalID: 7138663165548241319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 6319
+        width: 347
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9924a2fd5157b990800000000000000
+      internalID: -7370332801223874150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_2
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 6319
+        width: 345
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dceceec4bf57b70800000000000000
+      internalID: 8896292946782899586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_3
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 6319
+        width: 341
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2034f4408661b110800000000000000
+      internalID: 1274912870621261867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_4
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 6317
+        width: 351
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d633f708311190800000000000000
+      internalID: -7993546256809535997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5617
+        width: 346
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4959e5b2061dd27d0800000000000000
+      internalID: -2941464770628381292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 5617
+        width: 342
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593a0823b2f0fc8d0800000000000000
+      internalID: -2824021763132709995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_7
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 5617
+        width: 345
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd611949e9c6e40800000000000000
+      internalID: 5651065993369673507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 5617
+        width: 353
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97eabc511f42a300800000000000000
+      internalID: 261858664329701277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_9
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 5617
+        width: 355
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362f55bf5f405cde0800000000000000
+      internalID: -1313638261778419101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4915
+        width: 353
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f174baea1f4c7b70800000000000000
+      internalID: 8898073940802695671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4915
+        width: 350
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eebd0feac60ce620800000000000000
+      internalID: 2804624136608792293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_12
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 4915
+        width: 346
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5551499cc082b40800000000000000
+      internalID: 5415592611825407482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_13
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 4915
+        width: 347
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eec621c83c906190800000000000000
+      internalID: -7971199572873130266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_14
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 4915
+        width: 350
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddea6664c4df55e00800000000000000
+      internalID: 1033010193591873245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4213
+        width: 350
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bea305e567ec8d80800000000000000
+      internalID: -8246962392802283851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 4213
+        width: 349
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcf4dd0358253140800000000000000
+      internalID: 4698706123410439348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4213
+        width: 355
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149243ba9e19949e0800000000000000
+      internalID: -1636616556786734783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_18
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 4213
+        width: 361
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3078a5d6e9be181a0800000000000000
+      internalID: -6808902095935469821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_19
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 4213
+        width: 359
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1aa3665318c8240800000000000000
+      internalID: 4795349769591103960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3511
+        width: 357
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1cc8cd90c52c3d0800000000000000
+      internalID: -3187884388800216625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3511
+        width: 353
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76971c475d324c20800000000000000
+      internalID: 3189178931279795835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_22
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3511
+        width: 349
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b893311c1b4ded950800000000000000
+      internalID: 6475847174118914443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_23
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3511
+        width: 354
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c90dba95ab8a10800000000000000
+      internalID: 1912804550763989390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_24
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 3511
+        width: 356
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7c14ccd7823ed90800000000000000
+      internalID: -7069762469278660695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2809
+        width: 347
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfb707d6840289e0800000000000000
+      internalID: -1620727938720219191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2809
+        width: 346
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918ba9abea7203080800000000000000
+      internalID: -9209817606564169703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_27
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2809
+        width: 344
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a32348c42b2d50800000000000000
+      internalID: 6713500112064324269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_28
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2809
+        width: 351
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a784a6171527e9ab0800000000000000
+      internalID: -4999432842213963654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_29
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2809
+        width: 357
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecdac292998d0240800000000000000
+      internalID: 4759611643821481184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2107
+        width: 341
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce491f1534c458e0800000000000000
+      internalID: -1705522626432512311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2107
+        width: 346
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f4e5d7a56f81450800000000000000
+      internalID: 6059864167137824653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_32
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 2107
+        width: 344
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e73ab1322c44c40800000000000000
+      internalID: 5495730901342191230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_33
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2107
+        width: 340
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af535c3e5a96f50c0800000000000000
+      internalID: -4584829734428002822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_34
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 2107
+        width: 342
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcca0e542ec5b6a0800000000000000
+      internalID: -6434009837036974919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1405
+        width: 351
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e543e9a4e7b0b0800000000000000
+      internalID: -5712846183982570439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_36
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1405
+        width: 355
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b88860a610ac90800000000000000
+      internalID: -7160698529314719696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_37
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1405
+        width: 353
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60fd733edc23d990800000000000000
+      internalID: -7362491632962375573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_38
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1405
+        width: 347
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e969811cfec8a9890800000000000000
+      internalID: -7450487672166377826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_39
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1405
+        width: 342
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf9d0a4221de780800000000000000
+      internalID: -8652239360582091928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 703
+        width: 362
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5555652cca5db0800000000000000
+      internalID: -4802301591651262485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_41
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 703
+        width: 361
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80acdd2240e55a0800000000000000
+      internalID: -6530777861844236123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_42
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 703
+        width: 362
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304fd1dbe3f2d3c10800000000000000
+      internalID: 2034834553148666883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_43
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 703
+        width: 359
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f862628d270a36f0800000000000000
+      internalID: -704242499687651083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_44
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 703
+        width: 352
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c58c7b97c08f170800000000000000
+      internalID: 8212327637424036972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 349
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3caec33bfbf5500800000000000000
+      internalID: 387238869519221691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_46
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1
+        width: 354
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095a8897fc28ee10800000000000000
+      internalID: 2227079457662458118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_47
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1
+        width: 356
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2e899beb6bfe60800000000000000
+      internalID: 7997104222964166087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_48
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1
+        width: 361
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe08915517e6cff0800000000000000
+      internalID: -16071469899968779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeftAnim_49
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1
+        width: 362
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103fc3b199324fda0800000000000000
+      internalID: -5912061270336670975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LeftAnim_0: 7138663165548241319
+      LeftAnim_1: -7370332801223874150
+      LeftAnim_10: 8898073940802695671
+      LeftAnim_11: 2804624136608792293
+      LeftAnim_12: 5415592611825407482
+      LeftAnim_13: -7971199572873130266
+      LeftAnim_14: 1033010193591873245
+      LeftAnim_15: -8246962392802283851
+      LeftAnim_16: 4698706123410439348
+      LeftAnim_17: -1636616556786734783
+      LeftAnim_18: -6808902095935469821
+      LeftAnim_19: 4795349769591103960
+      LeftAnim_2: 8896292946782899586
+      LeftAnim_20: -3187884388800216625
+      LeftAnim_21: 3189178931279795835
+      LeftAnim_22: 6475847174118914443
+      LeftAnim_23: 1912804550763989390
+      LeftAnim_24: -7069762469278660695
+      LeftAnim_25: -1620727938720219191
+      LeftAnim_26: -9209817606564169703
+      LeftAnim_27: 6713500112064324269
+      LeftAnim_28: -4999432842213963654
+      LeftAnim_29: 4759611643821481184
+      LeftAnim_3: 1274912870621261867
+      LeftAnim_30: -1705522626432512311
+      LeftAnim_31: 6059864167137824653
+      LeftAnim_32: 5495730901342191230
+      LeftAnim_33: -4584829734428002822
+      LeftAnim_34: -6434009837036974919
+      LeftAnim_35: -5712846183982570439
+      LeftAnim_36: -7160698529314719696
+      LeftAnim_37: -7362491632962375573
+      LeftAnim_38: -7450487672166377826
+      LeftAnim_39: -8652239360582091928
+      LeftAnim_4: -7993546256809535997
+      LeftAnim_40: -4802301591651262485
+      LeftAnim_41: -6530777861844236123
+      LeftAnim_42: 2034834553148666883
+      LeftAnim_43: -704242499687651083
+      LeftAnim_44: 8212327637424036972
+      LeftAnim_45: 387238869519221691
+      LeftAnim_46: 2227079457662458118
+      LeftAnim_47: 7997104222964166087
+      LeftAnim_48: -16071469899968779
+      LeftAnim_49: -5912061270336670975
+      LeftAnim_5: -2941464770628381292
+      LeftAnim_6: -2824021763132709995
+      LeftAnim_7: 5651065993369673507
+      LeftAnim_8: 261858664329701277
+      LeftAnim_9: -1313638261778419101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

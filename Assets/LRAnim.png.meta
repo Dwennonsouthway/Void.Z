@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 60cd71c30336e4692a8d29a90134200f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8984682527953957840
+    second: LRAnim_0
+  - first:
+      213: -2825043892478967553
+    second: LRAnim_1
+  - first:
+      213: -2063663865680614573
+    second: LRAnim_2
+  - first:
+      213: 8090100653091658589
+    second: LRAnim_3
+  - first:
+      213: 9068752927215744337
+    second: LRAnim_4
+  - first:
+      213: 208933241351383476
+    second: LRAnim_5
+  - first:
+      213: 7651715305506187658
+    second: LRAnim_6
+  - first:
+      213: 8294950549765280747
+    second: LRAnim_7
+  - first:
+      213: 410653203101106834
+    second: LRAnim_8
+  - first:
+      213: -2029631619632060824
+    second: LRAnim_9
+  - first:
+      213: 1604873164408132662
+    second: LRAnim_10
+  - first:
+      213: 5715074471946643815
+    second: LRAnim_11
+  - first:
+      213: -279991698728024546
+    second: LRAnim_12
+  - first:
+      213: 8421828654695877711
+    second: LRAnim_13
+  - first:
+      213: -4473876286347838716
+    second: LRAnim_14
+  - first:
+      213: -1882358432412688420
+    second: LRAnim_15
+  - first:
+      213: 8268521836246459370
+    second: LRAnim_16
+  - first:
+      213: -6238405648271637562
+    second: LRAnim_17
+  - first:
+      213: -8329560126354532367
+    second: LRAnim_18
+  - first:
+      213: 8334646536521435132
+    second: LRAnim_19
+  - first:
+      213: 1527979440231940480
+    second: LRAnim_20
+  - first:
+      213: 6489006753102299865
+    second: LRAnim_21
+  - first:
+      213: 6691347515990816034
+    second: LRAnim_22
+  - first:
+      213: -4286498212062198995
+    second: LRAnim_23
+  - first:
+      213: 504144367908398505
+    second: LRAnim_24
+  - first:
+      213: 5847296912444214139
+    second: LRAnim_25
+  - first:
+      213: 2289499916245880340
+    second: LRAnim_26
+  - first:
+      213: 6444675030353686670
+    second: LRAnim_27
+  - first:
+      213: 1476380867572099796
+    second: LRAnim_28
+  - first:
+      213: 778286750142490239
+    second: LRAnim_29
+  - first:
+      213: 1370017169565711540
+    second: LRAnim_30
+  - first:
+      213: 4645208544056472662
+    second: LRAnim_31
+  - first:
+      213: 2370958622078349635
+    second: LRAnim_32
+  - first:
+      213: 8292129649684128995
+    second: LRAnim_33
+  - first:
+      213: 4596697056166296453
+    second: LRAnim_34
+  - first:
+      213: -2508386857954784952
+    second: LRAnim_35
+  - first:
+      213: -5530855918843196542
+    second: LRAnim_36
+  - first:
+      213: -604551671474605869
+    second: LRAnim_37
+  - first:
+      213: 7249278003527522961
+    second: LRAnim_38
+  - first:
+      213: -7753904741135131487
+    second: LRAnim_39
+  - first:
+      213: 6440120596968299477
+    second: LRAnim_40
+  - first:
+      213: -166649174529775082
+    second: LRAnim_41
+  - first:
+      213: -4504546093575618146
+    second: LRAnim_42
+  - first:
+      213: -6604494774930315287
+    second: LRAnim_43
+  - first:
+      213: 8577025706292472072
+    second: LRAnim_44
+  - first:
+      213: -5531582119937589987
+    second: LRAnim_45
+  - first:
+      213: 835554208767785574
+    second: LRAnim_46
+  - first:
+      213: 3802043873433664266
+    second: LRAnim_47
+  - first:
+      213: 3060998139267572546
+    second: LRAnim_48
+  - first:
+      213: 7386409532132338545
+    second: LRAnim_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LRAnim_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6317
+        width: 351
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ba52082100bc70800000000000000
+      internalID: 8984682527953957840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 6319
+        width: 341
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff087e92c8d6bc8d0800000000000000
+      internalID: -2825043892478967553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_2
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 6319
+        width: 345
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b2c4ed5a46c53e0800000000000000
+      internalID: -2063663865680614573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_3
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 6319
+        width: 347
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b1fa84eafc54070800000000000000
+      internalID: 8090100653091658589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 6319
+        width: 352
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1557a7e2dbeaadd70800000000000000
+      internalID: 9068752927215744337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5617
+        width: 355
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b925801da746e200800000000000000
+      internalID: 208933241351383476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 5617
+        width: 353
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89ad13a78a503a60800000000000000
+      internalID: 7651715305506187658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_7
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 5617
+        width: 345
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3d03493959d1370800000000000000
+      internalID: 8294950549765280747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 5617
+        width: 342
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292c7b899eee2b500800000000000000
+      internalID: 410653203101106834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_9
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 5617
+        width: 346
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662eee9bcc45d3e0800000000000000
+      internalID: -2029631619632060824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4915
+        width: 350
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6349a1ad3a7a54610800000000000000
+      internalID: 1604873164408132662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4915
+        width: 347
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7696845d3f5005f40800000000000000
+      internalID: 5715074471946643815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4915
+        width: 346
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16024198054d1cf0800000000000000
+      internalID: -279991698728024546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_13
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 4915
+        width: 350
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c8a5a6a8850e470800000000000000
+      internalID: 8421828654695877711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_14
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 4915
+        width: 353
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b713f983999e1c0800000000000000
+      internalID: -4473876286347838716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4213
+        width: 359
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf94189af480e5e0800000000000000
+      internalID: -1882358432412688420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4213
+        width: 361
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3e7033dc0bfb270800000000000000
+      internalID: 8268521836246459370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_17
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 4213
+        width: 355
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c38af98d1bbc69a0800000000000000
+      internalID: -6238405648271637562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_18
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 4213
+        width: 349
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7516d6235776c80800000000000000
+      internalID: -8329560126354532367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_19
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 4213
+        width: 350
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ccc9bddc9aa370800000000000000
+      internalID: 8334646536521435132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3511
+        width: 356
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081002f8439743510800000000000000
+      internalID: 1527979440231940480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_21
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3511
+        width: 354
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d206cff2459d0a50800000000000000
+      internalID: 6489006753102299865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_22
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3511
+        width: 349
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225335f0d117cdc50800000000000000
+      internalID: 6691347515990816034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_23
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 3511
+        width: 353
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238fa3469c4384c0800000000000000
+      internalID: -4286498212062198995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_24
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 3511
+        width: 357
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5a1bca1a41ff600800000000000000
+      internalID: 504144367908398505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2809
+        width: 357
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc972cf85c52150800000000000000
+      internalID: 5847296912444214139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2809
+        width: 351
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e4f152b00f5cf10800000000000000
+      internalID: 2289499916245880340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_27
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2809
+        width: 344
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80bf057bc5107950800000000000000
+      internalID: 6444675030353686670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_28
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2809
+        width: 346
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da61dca3982d7410800000000000000
+      internalID: 1476380867572099796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_29
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2809
+        width: 347
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e2abfca70dca00800000000000000
+      internalID: 778286750142490239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2107
+        width: 342
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc76286b57430310800000000000000
+      internalID: 1370017169565711540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2107
+        width: 340
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65478183f88177040800000000000000
+      internalID: 4645208544056472662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_32
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2107
+        width: 344
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341312e0e4657e020800000000000000
+      internalID: 2370958622078349635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_33
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2107
+        width: 346
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e428e89bff831370800000000000000
+      internalID: 8292129649684128995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_34
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2107
+        width: 341
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b30e44e9fbacf30800000000000000
+      internalID: 4596697056166296453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1405
+        width: 342
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849c854517b603dd0800000000000000
+      internalID: -2508386857954784952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1405
+        width: 347
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b0c7578d37e33b0800000000000000
+      internalID: -5530855918843196542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_37
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1405
+        width: 353
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0336535733c97f0800000000000000
+      internalID: -604551671474605869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_38
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1405
+        width: 355
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a9f469feb9a9460800000000000000
+      internalID: 7249278003527522961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_39
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1405
+        width: 351
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac5c6a48b8946490800000000000000
+      internalID: -7753904741135131487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 703
+        width: 352
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbd8fccf87ef5950800000000000000
+      internalID: 6440120596968299477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_41
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 703
+        width: 359
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a6a0e6571ffadf0800000000000000
+      internalID: -166649174529775082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_42
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 703
+        width: 362
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914d0aa133ac71c0800000000000000
+      internalID: -4504546093575618146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_43
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 703
+        width: 361
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ea5b8efe1854a0800000000000000
+      internalID: -6604494774930315287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_44
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 703
+        width: 362
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e4f4df67b70770800000000000000
+      internalID: 8577025706292472072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 362
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db7379e5fdb33b0800000000000000
+      internalID: -5531582119937589987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1
+        width: 361
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66abf2c302c789b00800000000000000
+      internalID: 835554208767785574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_47
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1
+        width: 356
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb67042c293c430800000000000000
+      internalID: 3802043873433664266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_48
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1
+        width: 354
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ec2df699da7a20800000000000000
+      internalID: 3060998139267572546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LRAnim_49
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1
+        width: 349
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bae48a55cc18660800000000000000
+      internalID: 7386409532132338545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LRAnim_0: 8984682527953957840
+      LRAnim_1: -2825043892478967553
+      LRAnim_10: 1604873164408132662
+      LRAnim_11: 5715074471946643815
+      LRAnim_12: -279991698728024546
+      LRAnim_13: 8421828654695877711
+      LRAnim_14: -4473876286347838716
+      LRAnim_15: -1882358432412688420
+      LRAnim_16: 8268521836246459370
+      LRAnim_17: -6238405648271637562
+      LRAnim_18: -8329560126354532367
+      LRAnim_19: 8334646536521435132
+      LRAnim_2: -2063663865680614573
+      LRAnim_20: 1527979440231940480
+      LRAnim_21: 6489006753102299865
+      LRAnim_22: 6691347515990816034
+      LRAnim_23: -4286498212062198995
+      LRAnim_24: 504144367908398505
+      LRAnim_25: 5847296912444214139
+      LRAnim_26: 2289499916245880340
+      LRAnim_27: 6444675030353686670
+      LRAnim_28: 1476380867572099796
+      LRAnim_29: 778286750142490239
+      LRAnim_3: 8090100653091658589
+      LRAnim_30: 1370017169565711540
+      LRAnim_31: 4645208544056472662
+      LRAnim_32: 2370958622078349635
+      LRAnim_33: 8292129649684128995
+      LRAnim_34: 4596697056166296453
+      LRAnim_35: -2508386857954784952
+      LRAnim_36: -5530855918843196542
+      LRAnim_37: -604551671474605869
+      LRAnim_38: 7249278003527522961
+      LRAnim_39: -7753904741135131487
+      LRAnim_4: 9068752927215744337
+      LRAnim_40: 6440120596968299477
+      LRAnim_41: -166649174529775082
+      LRAnim_42: -4504546093575618146
+      LRAnim_43: -6604494774930315287
+      LRAnim_44: 8577025706292472072
+      LRAnim_45: -5531582119937589987
+      LRAnim_46: 835554208767785574
+      LRAnim_47: 3802043873433664266
+      LRAnim_48: 3060998139267572546
+      LRAnim_49: 7386409532132338545
+      LRAnim_5: 208933241351383476
+      LRAnim_6: 7651715305506187658
+      LRAnim_7: 8294950549765280747
+      LRAnim_8: 410653203101106834
+      LRAnim_9: -2029631619632060824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

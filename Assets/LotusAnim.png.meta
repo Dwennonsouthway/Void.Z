@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: caafc1663cbaf464eb263c00f667d596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6747176079133665410
+    second: LotusAnim_0
+  - first:
+      213: -2774106385670274542
+    second: LotusAnim_1
+  - first:
+      213: -7923586359626869166
+    second: LotusAnim_2
+  - first:
+      213: -2140881848856069753
+    second: LotusAnim_3
+  - first:
+      213: 69271654404636861
+    second: LotusAnim_4
+  - first:
+      213: 3464598721778782487
+    second: LotusAnim_5
+  - first:
+      213: -3960172840049308003
+    second: LotusAnim_6
+  - first:
+      213: 6529565719499313276
+    second: LotusAnim_7
+  - first:
+      213: 4120965397702529692
+    second: LotusAnim_8
+  - first:
+      213: 6266536944695925156
+    second: LotusAnim_9
+  - first:
+      213: -6996089333250793524
+    second: LotusAnim_10
+  - first:
+      213: -6585993190006556585
+    second: LotusAnim_11
+  - first:
+      213: 2339148076624231399
+    second: LotusAnim_12
+  - first:
+      213: 4165608987950393546
+    second: LotusAnim_13
+  - first:
+      213: -8842709474058047375
+    second: LotusAnim_14
+  - first:
+      213: -4219645720487025302
+    second: LotusAnim_15
+  - first:
+      213: -983452370914001197
+    second: LotusAnim_16
+  - first:
+      213: 7891925038750552877
+    second: LotusAnim_17
+  - first:
+      213: 6368237231626192724
+    second: LotusAnim_18
+  - first:
+      213: -5581255729474937215
+    second: LotusAnim_19
+  - first:
+      213: -6009594661476900139
+    second: LotusAnim_20
+  - first:
+      213: 6063682330216245339
+    second: LotusAnim_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LotusAnim_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1432
+        width: 278
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28866c955e8c2ad50800000000000000
+      internalID: 6747176079133665410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1436
+        width: 282
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120bf8a0f46089d0800000000000000
+      internalID: -2774106385670274542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1435
+        width: 282
+        height: 269
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2565f47df24c90290800000000000000
+      internalID: -7923586359626869166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1430
+        width: 284
+        height: 277
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893ad42d4f0a42e0800000000000000
+      internalID: -2140881848856069753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_4
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1435
+        width: 291
+        height: 275
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0cac1e33a16f000800000000000000
+      internalID: 69271654404636861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1079
+        width: 289
+        height: 280
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71195e46e2ab41030800000000000000
+      internalID: 3464598721778782487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1085
+        width: 291
+        height: 275
+      alignment: 9
+      pivot: {x: 0.51, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e06bba8c3aa09c0800000000000000
+      internalID: -3960172840049308003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_7
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1085
+        width: 294
+        height: 276
+      alignment: 9
+      pivot: {x: 0.51, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7013504d6dad9a50800000000000000
+      internalID: 6529565719499313276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1084
+        width: 298
+        height: 287
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c925cb5023c903930800000000000000
+      internalID: 4120965397702529692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1084
+        width: 300
+        height: 288
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a95670562637f650800000000000000
+      internalID: 6266536944695925156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 735
+        width: 301
+        height: 287
+      alignment: 9
+      pivot: {x: 0.515, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfdfaa71d5e8ee90800000000000000
+      internalID: -6996089333250793524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 729
+        width: 308
+        height: 293
+      alignment: 9
+      pivot: {x: 0.518, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7587488761ad994a0800000000000000
+      internalID: -6585993190006556585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 734
+        width: 305
+        height: 288
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb93848c2567020800000000000000
+      internalID: 2339148076624231399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 734
+        width: 324
+        height: 287
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac825ffdd473fc930800000000000000
+      internalID: 4165608987950393546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_14
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 734
+        width: 331
+        height: 287
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170f9c28592684580800000000000000
+      internalID: -8842709474058047375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 393
+        width: 340
+        height: 277
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65af58e29ec075c0800000000000000
+      internalID: -4219645720487025302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 391
+        width: 340
+        height: 279
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deb72a77431a52f0800000000000000
+      internalID: -983452370914001197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 390
+        width: 342
+        height: 280
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23dcb07200c58d60800000000000000
+      internalID: 7891925038750552877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_18
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 390
+        width: 344
+        height: 279
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570f749506806850800000000000000
+      internalID: 6368237231626192724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_19
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 389
+        width: 346
+        height: 280
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e580c1c756b82b0800000000000000
+      internalID: -5581255729474937215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 346
+        height: 279
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2e59ede71a99ca0800000000000000
+      internalID: -6009594661476900139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusAnim_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 38
+        width: 347
+        height: 280
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b582a5bd3f6862450800000000000000
+      internalID: 6063682330216245339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f18fe0cba91604b2cbef67428d375b6c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LotusAnim_0: 6747176079133665410
+      LotusAnim_1: -2774106385670274542
+      LotusAnim_10: -6996089333250793524
+      LotusAnim_11: -6585993190006556585
+      LotusAnim_12: 2339148076624231399
+      LotusAnim_13: 4165608987950393546
+      LotusAnim_14: -8842709474058047375
+      LotusAnim_15: -4219645720487025302
+      LotusAnim_16: -983452370914001197
+      LotusAnim_17: 7891925038750552877
+      LotusAnim_18: 6368237231626192724
+      LotusAnim_19: -5581255729474937215
+      LotusAnim_2: -7923586359626869166
+      LotusAnim_20: -6009594661476900139
+      LotusAnim_21: 6063682330216245339
+      LotusAnim_3: -2140881848856069753
+      LotusAnim_4: 69271654404636861
+      LotusAnim_5: 3464598721778782487
+      LotusAnim_6: -3960172840049308003
+      LotusAnim_7: 6529565719499313276
+      LotusAnim_8: 4120965397702529692
+      LotusAnim_9: 6266536944695925156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

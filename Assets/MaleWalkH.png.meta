@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: f2289ef875d444692818d59e1507cb83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5414759373984261921
+    second: MaleWalkH_0
+  - first:
+      213: 6448471060401441811
+    second: MaleWalkH_1
+  - first:
+      213: -4913480630971185727
+    second: MaleWalkH_2
+  - first:
+      213: 9135553086341671979
+    second: MaleWalkH_3
+  - first:
+      213: 4935141771587406225
+    second: MaleWalkH_4
+  - first:
+      213: -4283915471500961910
+    second: MaleWalkH_5
+  - first:
+      213: 698051384789180827
+    second: MaleWalkH_6
+  - first:
+      213: 1464855098408425244
+    second: MaleWalkH_7
+  - first:
+      213: 2958363702404064498
+    second: MaleWalkH_8
+  - first:
+      213: 3230783113896813661
+    second: MaleWalkH_9
+  - first:
+      213: -388398169363752274
+    second: MaleWalkH_10
+  - first:
+      213: 2588405735970998881
+    second: MaleWalkH_11
+  - first:
+      213: 3967515934102237666
+    second: MaleWalkH_12
+  - first:
+      213: 2812751184264484986
+    second: MaleWalkH_13
+  - first:
+      213: -4497223136532725545
+    second: MaleWalkH_14
+  - first:
+      213: -6975284009226212905
+    second: MaleWalkH_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaleWalkH_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 771
+        width: 110
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1276c8646f6152b40800000000000000
+      internalID: 5414759373984261921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 771
+        width: 106
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c4d9393429d7950800000000000000
+      internalID: 6448471060401441811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 771
+        width: 111
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5433c166fcfcbb0800000000000000
+      internalID: -4913480630971185727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 776
+        width: 107
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c6e1a312108ce70800000000000000
+      internalID: 9135553086341671979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 520
+        width: 106
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199c8a33b452d7440800000000000000
+      internalID: 4935141771587406225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 520
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87926963997c84c0800000000000000
+      internalID: -4283915471500961910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 520
+        width: 107
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b912459390affa900800000000000000
+      internalID: 698051384789180827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 520
+        width: 106
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17dd0c63f5345410800000000000000
+      internalID: 1464855098408425244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 264
+        width: 100
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4243efc183e0920800000000000000
+      internalID: 2958363702404064498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 264
+        width: 113
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54662aef1c06dc20800000000000000
+      internalID: 3230783113896813661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 264
+        width: 112
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa59ab3ce12c9af0800000000000000
+      internalID: -388398169363752274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 264
+        width: 100
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a822b8d4ddbe320800000000000000
+      internalID: 2588405735970998881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1bdd4a8b27f0730800000000000000
+      internalID: 3967515934102237666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 11
+        width: 97
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78d4abac46e80720800000000000000
+      internalID: 2812751184264484986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 11
+        width: 111
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d08c477267a691c0800000000000000
+      internalID: -4497223136532725545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkH_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 11
+        width: 96
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9eb967620d23f90800000000000000
+      internalID: -6975284009226212905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MaleWalkH_0: 5414759373984261921
+      MaleWalkH_1: 6448471060401441811
+      MaleWalkH_10: -388398169363752274
+      MaleWalkH_11: 2588405735970998881
+      MaleWalkH_12: 3967515934102237666
+      MaleWalkH_13: 2812751184264484986
+      MaleWalkH_14: -4497223136532725545
+      MaleWalkH_15: -6975284009226212905
+      MaleWalkH_2: -4913480630971185727
+      MaleWalkH_3: 9135553086341671979
+      MaleWalkH_4: 4935141771587406225
+      MaleWalkH_5: -4283915471500961910
+      MaleWalkH_6: 698051384789180827
+      MaleWalkH_7: 1464855098408425244
+      MaleWalkH_8: 2958363702404064498
+      MaleWalkH_9: 3230783113896813661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

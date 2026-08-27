@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: 1f384f98c900c4469902f3c142d4ed11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1649968707941144909
+    second: JoinLotusFade (1)_0
+  - first:
+      213: 8755817619514251239
+    second: JoinLotusFade (1)_1
+  - first:
+      213: -2938471938854319636
+    second: JoinLotusFade (1)_2
+  - first:
+      213: 4420983630252129758
+    second: JoinLotusFade (1)_3
+  - first:
+      213: -2662869340139061725
+    second: JoinLotusFade (1)_4
+  - first:
+      213: 2218980489710333386
+    second: JoinLotusFade (1)_5
+  - first:
+      213: -4587233810849040281
+    second: JoinLotusFade (1)_6
+  - first:
+      213: 8371937754579628569
+    second: JoinLotusFade (1)_7
+  - first:
+      213: 1020284014781732926
+    second: JoinLotusFade (1)_8
+  - first:
+      213: 4496411487423911937
+    second: JoinLotusFade (1)_9
+  - first:
+      213: -184758993319454157
+    second: JoinLotusFade (1)_10
+  - first:
+      213: -3614853903480659361
+    second: JoinLotusFade (1)_11
+  - first:
+      213: 5793522670875026231
+    second: JoinLotusFade (1)_12
+  - first:
+      213: 195022509583779546
+    second: JoinLotusFade (1)_13
+  - first:
+      213: -5204450748237340151
+    second: JoinLotusFade (1)_14
+  - first:
+      213: 4166047315941112863
+    second: JoinLotusFade (1)_15
+  - first:
+      213: 7625945469799929915
+    second: JoinLotusFade (1)_16
+  - first:
+      213: 6762828371651577384
+    second: JoinLotusFade (1)_17
+  - first:
+      213: 4614462483482550727
+    second: JoinLotusFade (1)_18
+  - first:
+      213: 4359501686201855951
+    second: JoinLotusFade (1)_19
+  - first:
+      213: -1409253237935699079
+    second: JoinLotusFade (1)_20
+  - first:
+      213: 7831500831602768356
+    second: JoinLotusFade (1)_21
+  - first:
+      213: -6341284009019633247
+    second: JoinLotusFade (1)_22
+  - first:
+      213: 5040987365553178662
+    second: JoinLotusFade (1)_23
+  - first:
+      213: -8181470838439181879
+    second: JoinLotusFade (1)_24
+  - first:
+      213: -2395524186034824543
+    second: JoinLotusFade (1)_25
+  - first:
+      213: -3961101367392021245
+    second: JoinLotusFade (1)_26
+  - first:
+      213: -5057024852675582911
+    second: JoinLotusFade (1)_27
+  - first:
+      213: -2999928870464019469
+    second: JoinLotusFade (1)_28
+  - first:
+      213: -5396657995483432845
+    second: JoinLotusFade (1)_29
+  - first:
+      213: 7810005163100745765
+    second: JoinLotusFade (1)_30
+  - first:
+      213: 667554630329244016
+    second: JoinLotusFade (1)_31
+  - first:
+      213: 5531484783150320351
+    second: JoinLotusFade (1)_32
+  - first:
+      213: -6032561482132994334
+    second: JoinLotusFade (1)_33
+  - first:
+      213: 9136034035675955053
+    second: JoinLotusFade (1)_34
+  - first:
+      213: 1612676365344748657
+    second: JoinLotusFade (1)_35
+  - first:
+      213: 3699167483981507605
+    second: JoinLotusFade (1)_36
+  - first:
+      213: 2905832561312456237
+    second: JoinLotusFade (1)_37
+  - first:
+      213: 7938779786538101611
+    second: JoinLotusFade (1)_38
+  - first:
+      213: 7065761131670579000
+    second: JoinLotusFade (1)_39
+  - first:
+      213: -621047141007392910
+    second: JoinLotusFade (1)_40
+  - first:
+      213: 1845853772787321262
+    second: JoinLotusFade (1)_41
+  - first:
+      213: 3875040639394317415
+    second: JoinLotusFade (1)_42
+  - first:
+      213: 1962855392012186067
+    second: JoinLotusFade (1)_43
+  - first:
+      213: -4305323356486575895
+    second: JoinLotusFade (1)_44
+  - first:
+      213: -5053912522332878711
+    second: JoinLotusFade (1)_45
+  - first:
+      213: 5860069554949614793
+    second: JoinLotusFade (1)_46
+  - first:
+      213: 8086865271341252389
+    second: JoinLotusFade (1)_47
+  - first:
+      213: -2474143594916680246
+    second: JoinLotusFade (1)_48
+  - first:
+      213: -8258423835187405402
+    second: JoinLotusFade (1)_49
+  - first:
+      213: -6888539397590357298
+    second: JoinLotusFade (1)_50
+  - first:
+      213: 7989307710418172417
+    second: JoinLotusFade (1)_51
+  - first:
+      213: 467288318380721622
+    second: JoinLotusFade (1)_52
+  - first:
+      213: 7719472425189328718
+    second: JoinLotusFade (1)_53
+  - first:
+      213: -8936173913362924053
+    second: JoinLotusFade (1)_54
+  - first:
+      213: -386624430089718821
+    second: JoinLotusFade (1)_55
+  - first:
+      213: -894278371096905562
+    second: JoinLotusFade (1)_56
+  - first:
+      213: -4497346316591141891
+    second: JoinLotusFade (1)_57
+  - first:
+      213: 2749399979895085175
+    second: JoinLotusFade (1)_58
+  - first:
+      213: -8773815942911730023
+    second: JoinLotusFade (1)_59
+  - first:
+      213: -1586776937230526699
+    second: JoinLotusFade (1)_60
+  - first:
+      213: 209733408430994977
+    second: JoinLotusFade (1)_61
+  - first:
+      213: -5515604844028232799
+    second: JoinLotusFade (1)_62
+  - first:
+      213: -4423881090540850285
+    second: JoinLotusFade (1)_63
+  - first:
+      213: -6697357882692495772
+    second: JoinLotusFade (1)_64
+  - first:
+      213: -4707171431739243831
+    second: JoinLotusFade (1)_65
+  - first:
+      213: -7926067912381679932
+    second: JoinLotusFade (1)_66
+  - first:
+      213: -2446174772568836640
+    second: JoinLotusFade (1)_67
+  - first:
+      213: 6624840086746094145
+    second: JoinLotusFade (1)_68
+  - first:
+      213: -277679708567819706
+    second: JoinLotusFade (1)_69
+  - first:
+      213: -5323977258568159542
+    second: JoinLotusFade (1)_70
+  - first:
+      213: -8885984810467226734
+    second: JoinLotusFade (1)_71
+  - first:
+      213: 1366393177106058116
+    second: JoinLotusFade (1)_72
+  - first:
+      213: 5714865411437788229
+    second: JoinLotusFade (1)_73
+  - first:
+      213: 8587813909579108064
+    second: JoinLotusFade (1)_74
+  - first:
+      213: -4013505528747878776
+    second: JoinLotusFade (1)_75
+  - first:
+      213: -7029771362540801845
+    second: JoinLotusFade (1)_76
+  - first:
+      213: -3413402337320472048
+    second: JoinLotusFade (1)_77
+  - first:
+      213: -4975782459285175468
+    second: JoinLotusFade (1)_78
+  - first:
+      213: -1929153844981002446
+    second: JoinLotusFade (1)_79
+  - first:
+      213: -4649751643344669822
+    second: JoinLotusFade (1)_80
+  - first:
+      213: -4216702932778983686
+    second: JoinLotusFade (1)_81
+  - first:
+      213: 3152983856150653960
+    second: JoinLotusFade (1)_82
+  - first:
+      213: 2797881371359977267
+    second: JoinLotusFade (1)_83
+  - first:
+      213: -7033719543534436919
+    second: JoinLotusFade (1)_84
+  - first:
+      213: 4060370964623053641
+    second: JoinLotusFade (1)_85
+  - first:
+      213: 3553507860894194572
+    second: JoinLotusFade (1)_86
+  - first:
+      213: 6357686819212525868
+    second: JoinLotusFade (1)_87
+  - first:
+      213: -3811360951721775072
+    second: JoinLotusFade (1)_88
+  - first:
+      213: -6481697005424246656
+    second: JoinLotusFade (1)_89
+  - first:
+      213: 3451013445213168262
+    second: JoinLotusFade (1)_90
+  - first:
+      213: 7629920000557227922
+    second: JoinLotusFade (1)_91
+  - first:
+      213: -1523859639755440556
+    second: JoinLotusFade (1)_92
+  - first:
+      213: -7962333187849525377
+    second: JoinLotusFade (1)_93
+  - first:
+      213: -4941165238056662981
+    second: JoinLotusFade (1)_94
+  - first:
+      213: -7989702780381587208
+    second: JoinLotusFade (1)_95
+  - first:
+      213: -6163466163328677266
+    second: JoinLotusFade (1)_96
+  - first:
+      213: -704589858755758432
+    second: JoinLotusFade (1)_97
+  - first:
+      213: -9050193870778860414
+    second: JoinLotusFade (1)_98
+  - first:
+      213: -2103733824544090834
+    second: JoinLotusFade (1)_99
+  - first:
+      213: -8577394768149765206
+    second: JoinLotusFade (1)_100
+  - first:
+      213: 3497029794575379675
+    second: JoinLotusFade (1)_101
+  - first:
+      213: 3580541474440143128
+    second: JoinLotusFade (1)_102
+  - first:
+      213: -6096031717186820314
+    second: JoinLotusFade (1)_103
+  - first:
+      213: -3198028952074902784
+    second: JoinLotusFade (1)_104
+  - first:
+      213: 9199847041550694305
+    second: JoinLotusFade (1)_105
+  - first:
+      213: 5131439453636931171
+    second: JoinLotusFade (1)_106
+  - first:
+      213: 8076286115788253167
+    second: JoinLotusFade (1)_107
+  - first:
+      213: 3233258895501849144
+    second: JoinLotusFade (1)_108
+  - first:
+      213: -8005689024683368164
+    second: JoinLotusFade (1)_109
+  - first:
+      213: -7406377585309672083
+    second: JoinLotusFade (1)_110
+  - first:
+      213: -364686162168208326
+    second: JoinLotusFade (1)_111
+  - first:
+      213: 2143132018027952676
+    second: JoinLotusFade (1)_112
+  - first:
+      213: 4052868195550321470
+    second: JoinLotusFade (1)_113
+  - first:
+      213: 3790227048786479499
+    second: JoinLotusFade (1)_114
+  - first:
+      213: 577398113166747909
+    second: JoinLotusFade (1)_115
+  - first:
+      213: 1960198094654390707
+    second: JoinLotusFade (1)_116
+  - first:
+      213: 3845959648263120402
+    second: JoinLotusFade (1)_117
+  - first:
+      213: 6140397610273654850
+    second: JoinLotusFade (1)_118
+  - first:
+      213: -7750449507523984987
+    second: JoinLotusFade (1)_119
+  - first:
+      213: 4874799171171592074
+    second: JoinLotusFade (1)_120
+  - first:
+      213: 7990274900976837791
+    second: JoinLotusFade (1)_121
+  - first:
+      213: -2189236848709742703
+    second: JoinLotusFade (1)_122
+  - first:
+      213: 3062039224578216849
+    second: JoinLotusFade (1)_123
+  - first:
+      213: 1840748463150130864
+    second: JoinLotusFade (1)_124
+  - first:
+      213: -3870607536141690330
+    second: JoinLotusFade (1)_125
+  - first:
+      213: 7483947005651993078
+    second: JoinLotusFade (1)_126
+  - first:
+      213: -8579412494733349570
+    second: JoinLotusFade (1)_127
+  - first:
+      213: -4045607041712602343
+    second: JoinLotusFade (1)_128
+  - first:
+      213: 1827808614410752727
+    second: JoinLotusFade (1)_129
+  - first:
+      213: 2697620426980086225
+    second: JoinLotusFade (1)_130
+  - first:
+      213: 1515229699260799497
+    second: JoinLotusFade (1)_131
+  - first:
+      213: -5576755375745115872
+    second: JoinLotusFade (1)_132
+  - first:
+      213: 6155864236790880821
+    second: JoinLotusFade (1)_133
+  - first:
+      213: -490807716663190964
+    second: JoinLotusFade (1)_134
+  - first:
+      213: 3397951512792195269
+    second: JoinLotusFade (1)_135
+  - first:
+      213: -8305737851985323967
+    second: JoinLotusFade (1)_136
+  - first:
+      213: 8137798257358827843
+    second: JoinLotusFade (1)_137
+  - first:
+      213: 6418709313068665138
+    second: JoinLotusFade (1)_138
+  - first:
+      213: -6673690651695978224
+    second: JoinLotusFade (1)_139
+  - first:
+      213: -5532125769235807364
+    second: JoinLotusFade (1)_140
+  - first:
+      213: 156966973970275997
+    second: JoinLotusFade (1)_141
+  - first:
+      213: -8968773789319777231
+    second: JoinLotusFade (1)_142
+  - first:
+      213: 1305851790290453970
+    second: JoinLotusFade (1)_143
+  - first:
+      213: -5713159029795086160
+    second: JoinLotusFade (1)_144
+  - first:
+      213: -5432303801770106115
+    second: JoinLotusFade (1)_145
+  - first:
+      213: -7058937842718926550
+    second: JoinLotusFade (1)_146
+  - first:
+      213: 6125783449518584478
+    second: JoinLotusFade (1)_147
+  - first:
+      213: 2016536284742388244
+    second: JoinLotusFade (1)_148
+  - first:
+      213: 4994529633938245675
+    second: JoinLotusFade (1)_149
+  - first:
+      213: -6841675189309708594
+    second: JoinLotusFade (1)_150
+  - first:
+      213: -7582316617484536328
+    second: JoinLotusFade (1)_151
+  - first:
+      213: -7975101577331893922
+    second: JoinLotusFade (1)_152
+  - first:
+      213: -2223910798321962045
+    second: JoinLotusFade (1)_153
+  - first:
+      213: -8122395208054719654
+    second: JoinLotusFade (1)_154
+  - first:
+      213: 8222310637450683612
+    second: JoinLotusFade (1)_155
+  - first:
+      213: -5754939249662477292
+    second: JoinLotusFade (1)_156
+  - first:
+      213: -3983053891278978550
+    second: JoinLotusFade (1)_157
+  - first:
+      213: -1444036046224861450
+    second: JoinLotusFade (1)_158
+  - first:
+      213: 6554464411460133892
+    second: JoinLotusFade (1)_159
+  - first:
+      213: -4003377997115045124
+    second: JoinLotusFade (1)_160
+  - first:
+      213: 7509988732287885219
+    second: JoinLotusFade (1)_161
+  - first:
+      213: -7583626800902439020
+    second: JoinLotusFade (1)_162
+  - first:
+      213: -6398606053529934136
+    second: JoinLotusFade (1)_163
+  - first:
+      213: 6662665968790832775
+    second: JoinLotusFade (1)_164
+  - first:
+      213: 4822233167444949765
+    second: JoinLotusFade (1)_165
+  - first:
+      213: -4369355891539929093
+    second: JoinLotusFade (1)_166
+  - first:
+      213: -5660298185092505985
+    second: JoinLotusFade (1)_167
+  - first:
+      213: 642004189107982820
+    second: JoinLotusFade (1)_168
+  - first:
+      213: 7399103028169285769
+    second: JoinLotusFade (1)_169
+  - first:
+      213: -8185889573268029435
+    second: JoinLotusFade (1)_170
+  - first:
+      213: 6257764983383275465
+    second: JoinLotusFade (1)_171
+  - first:
+      213: -5836897867841953061
+    second: JoinLotusFade (1)_172
+  - first:
+      213: -3388169902883378498
+    second: JoinLotusFade (1)_173
+  - first:
+      213: 840092557713906223
+    second: JoinLotusFade (1)_174
+  - first:
+      213: -6932232327991716216
+    second: JoinLotusFade (1)_175
+  - first:
+      213: 4798663602236912984
+    second: JoinLotusFade (1)_176
+  - first:
+      213: -2111104927894142363
+    second: JoinLotusFade (1)_177
+  - first:
+      213: -6483578256713780233
+    second: JoinLotusFade (1)_178
+  - first:
+      213: -3196484414023145834
+    second: JoinLotusFade (1)_179
+  - first:
+      213: -6041613152853335028
+    second: JoinLotusFade (1)_180
+  - first:
+      213: 4429810196204915352
+    second: JoinLotusFade (1)_181
+  - first:
+      213: 1467414846430715862
+    second: JoinLotusFade (1)_182
+  - first:
+      213: -7071420546130435988
+    second: JoinLotusFade (1)_183
+  - first:
+      213: -2461789093508557299
+    second: JoinLotusFade (1)_184
+  - first:
+      213: -2407402220595641352
+    second: JoinLotusFade (1)_185
+  - first:
+      213: -5822166524802538874
+    second: JoinLotusFade (1)_186
+  - first:
+      213: 187412444189021261
+    second: JoinLotusFade (1)_187
+  - first:
+      213: 8443172933761147751
+    second: JoinLotusFade (1)_188
+  - first:
+      213: -3260077072787279931
+    second: JoinLotusFade (1)_189
+  - first:
+      213: 8518976392826115437
+    second: JoinLotusFade (1)_190
+  - first:
+      213: 2277153507454694261
+    second: JoinLotusFade (1)_191
+  - first:
+      213: 5727830919355833671
+    second: JoinLotusFade (1)_192
+  - first:
+      213: -4411590093478808367
+    second: JoinLotusFade (1)_193
+  - first:
+      213: 4414544390102192867
+    second: JoinLotusFade (1)_194
+  - first:
+      213: 8180635280055733712
+    second: JoinLotusFade (1)_195
+  - first:
+      213: 1218939057985225327
+    second: JoinLotusFade (1)_196
+  - first:
+      213: 7100260539821320549
+    second: JoinLotusFade (1)_197
+  - first:
+      213: -6586657752244681038
+    second: JoinLotusFade (1)_198
+  - first:
+      213: 1224077035602283048
+    second: JoinLotusFade (1)_199
+  - first:
+      213: -5119447530570553237
+    second: JoinLotusFade (1)_200
+  - first:
+      213: 8361951584270413998
+    second: JoinLotusFade (1)_201
+  - first:
+      213: 1091245660957309398
+    second: JoinLotusFade (1)_202
+  - first:
+      213: 4562413777401539908
+    second: JoinLotusFade (1)_203
+  - first:
+      213: 244514846708730046
+    second: JoinLotusFade (1)_204
+  - first:
+      213: 7115263083883290883
+    second: JoinLotusFade (1)_205
+  - first:
+      213: -1822205798116126078
+    second: JoinLotusFade (1)_206
+  - first:
+      213: 8504558292352924871
+    second: JoinLotusFade (1)_207
+  - first:
+      213: 6346767167840088202
+    second: JoinLotusFade (1)_208
+  - first:
+      213: 960977132916941865
+    second: JoinLotusFade (1)_209
+  - first:
+      213: 2119970348339759908
+    second: JoinLotusFade (1)_210
+  - first:
+      213: 630454884719661368
+    second: JoinLotusFade (1)_211
+  - first:
+      213: 7312077592780072832
+    second: JoinLotusFade (1)_212
+  - first:
+      213: 4551584097908838094
+    second: JoinLotusFade (1)_213
+  - first:
+      213: 7068262356202467991
+    second: JoinLotusFade (1)_214
+  - first:
+      213: -1591795998961077881
+    second: JoinLotusFade (1)_215
+  - first:
+      213: 481978822171705537
+    second: JoinLotusFade (1)_216
+  - first:
+      213: -9182901610250384490
+    second: JoinLotusFade (1)_217
+  - first:
+      213: -696558865788193618
+    second: JoinLotusFade (1)_218
+  - first:
+      213: 2840838001214653150
+    second: JoinLotusFade (1)_219
+  - first:
+      213: -5974986585047466741
+    second: JoinLotusFade (1)_220
+  - first:
+      213: -3630664093530969747
+    second: JoinLotusFade (1)_221
+  - first:
+      213: 2137392532814058333
+    second: JoinLotusFade (1)_222
+  - first:
+      213: -7401226564666982559
+    second: JoinLotusFade (1)_223
+  - first:
+      213: 3399846236025349345
+    second: JoinLotusFade (1)_224
+  - first:
+      213: -2789772501842837339
+    second: JoinLotusFade (1)_225
+  - first:
+      213: 3829480104228368115
+    second: JoinLotusFade (1)_226
+  - first:
+      213: -598716247146540008
+    second: JoinLotusFade (1)_227
+  - first:
+      213: 5189413883693519848
+    second: JoinLotusFade (1)_228
+  - first:
+      213: 5599406669996241703
+    second: JoinLotusFade (1)_229
+  - first:
+      213: 7217806759207290823
+    second: JoinLotusFade (1)_230
+  - first:
+      213: 3319393490104876480
+    second: JoinLotusFade (1)_231
+  - first:
+      213: 4425102376639259881
+    second: JoinLotusFade (1)_232
+  - first:
+      213: 6412223386449656973
+    second: JoinLotusFade (1)_233
+  - first:
+      213: -3787475100593418874
+    second: JoinLotusFade (1)_234
+  - first:
+      213: 7322676611569468293
+    second: JoinLotusFade (1)_235
+  - first:
+      213: -6659488863510897678
+    second: JoinLotusFade (1)_236
+  - first:
+      213: -252890612315603541
+    second: JoinLotusFade (1)_237
+  - first:
+      213: 2037811795742514862
+    second: JoinLotusFade (1)_238
+  - first:
+      213: 8530991350965240609
+    second: JoinLotusFade (1)_239
+  - first:
+      213: -1295636700957187012
+    second: JoinLotusFade (1)_240
+  - first:
+      213: 8730736593981325333
+    second: JoinLotusFade (1)_241
+  - first:
+      213: -2438978699725000879
+    second: JoinLotusFade (1)_242
+  - first:
+      213: -7994415677442350637
+    second: JoinLotusFade (1)_243
+  - first:
+      213: 7229935968525036201
+    second: JoinLotusFade (1)_244
+  - first:
+      213: 2319757109526482744
+    second: JoinLotusFade (1)_245
+  - first:
+      213: 4917230904064798633
+    second: JoinLotusFade (1)_246
+  - first:
+      213: -1420403861482738726
+    second: JoinLotusFade (1)_247
+  - first:
+      213: 5191215243174546091
+    second: JoinLotusFade (1)_248
+  - first:
+      213: -4664567677429557191
+    second: JoinLotusFade (1)_249
+  - first:
+      213: 8506626696137660632
+    second: JoinLotusFade (1)_250
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 770
+        width: 290
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b668a8b3322a19e0800000000000000
+      internalID: -1649968707941144909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 774
+        width: 471
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d0411cb9e28970800000000000000
+      internalID: 8755817619514251239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 471
+        height: 268
+      alignment: 9
+      pivot: {x: 0.38982618, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9822e17537837d0800000000000000
+      internalID: -2938471938854319636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 500
+        width: 472
+        height: 271
+      alignment: 9
+      pivot: {x: 0.44299382, y: 0.48581597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddbef6303d7a5d30800000000000000
+      internalID: 4420983630252129758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 511
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e7bb191769b0bd0800000000000000
+      internalID: -2662869340139061725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 512
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acde4bcaff66bce10800000000000000
+      internalID: 2218980489710333386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687eaa372fd650c0800000000000000
+      internalID: -4587233810849040281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoinLotusFade (1)_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912766708091f2470800000000000000
+      internalID: 8371937754579628569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fb6ba38bfc7b40f1aca755e68c1020a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":512.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      JoinLotusFade (1)_0: -1649968707941144909
+      JoinLotusFade (1)_1: 8755817619514251239
+      JoinLotusFade (1)_2: -2938471938854319636
+      JoinLotusFade (1)_3: 4420983630252129758
+      JoinLotusFade (1)_4: -2662869340139061725
+      JoinLotusFade (1)_5: 2218980489710333386
+      JoinLotusFade (1)_6: -4587233810849040281
+      JoinLotusFade (1)_7: 8371937754579628569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

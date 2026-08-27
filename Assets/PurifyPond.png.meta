@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: bceec53757bb147578227ca7249681f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3116446547385184084
+    second: PurifyPond_0
+  - first:
+      213: 2580945736758001649
+    second: PurifyPond_1
+  - first:
+      213: 4403921810506835048
+    second: PurifyPond_2
+  - first:
+      213: -9143972203079999444
+    second: PurifyPond_3
+  - first:
+      213: -504319760428361642
+    second: PurifyPond_4
+  - first:
+      213: -9047296440350846239
+    second: PurifyPond_5
+  - first:
+      213: -6580654442520181657
+    second: PurifyPond_6
+  - first:
+      213: -2548783306752879880
+    second: PurifyPond_7
+  - first:
+      213: -4071201920832962938
+    second: PurifyPond_8
+  - first:
+      213: 3457205737042165138
+    second: PurifyPond_9
+  - first:
+      213: 1793742824065013427
+    second: PurifyPond_10
+  - first:
+      213: -3756321002308534863
+    second: PurifyPond_11
+  - first:
+      213: -207087800162255199
+    second: PurifyPond_12
+  - first:
+      213: 8832791577524455360
+    second: PurifyPond_13
+  - first:
+      213: -5601105681176426823
+    second: PurifyPond_14
+  - first:
+      213: 4218971974698849755
+    second: PurifyPond_15
+  - first:
+      213: 1280355937888007109
+    second: PurifyPond_16
+  - first:
+      213: -2990307725460778365
+    second: PurifyPond_17
+  - first:
+      213: -7562565608990714796
+    second: PurifyPond_18
+  - first:
+      213: -3078599236365822584
+    second: PurifyPond_19
+  - first:
+      213: 39367447809204598
+    second: PurifyPond_20
+  - first:
+      213: -7139954874050237863
+    second: PurifyPond_21
+  - first:
+      213: -4317645857779306388
+    second: PurifyPond_22
+  - first:
+      213: -7731157409306436923
+    second: PurifyPond_23
+  - first:
+      213: -6805713120566712811
+    second: PurifyPond_24
+  - first:
+      213: 6114981975528700557
+    second: PurifyPond_25
+  - first:
+      213: 7162033784736894929
+    second: PurifyPond_26
+  - first:
+      213: 7276901192252591992
+    second: PurifyPond_27
+  - first:
+      213: 8944475601418023590
+    second: PurifyPond_28
+  - first:
+      213: 3424958508016978815
+    second: PurifyPond_29
+  - first:
+      213: -387251445515183671
+    second: PurifyPond_30
+  - first:
+      213: 6687988306253793169
+    second: PurifyPond_31
+  - first:
+      213: -4906425331039797731
+    second: PurifyPond_32
+  - first:
+      213: 3322070386531316849
+    second: PurifyPond_33
+  - first:
+      213: -8317567662918639736
+    second: PurifyPond_34
+  - first:
+      213: 2400148759682603547
+    second: PurifyPond_35
+  - first:
+      213: -864364416784568394
+    second: PurifyPond_36
+  - first:
+      213: -8643328052534092838
+    second: PurifyPond_37
+  - first:
+      213: -8128698699599244355
+    second: PurifyPond_38
+  - first:
+      213: -8372773667934818196
+    second: PurifyPond_39
+  - first:
+      213: -7797498407195551897
+    second: PurifyPond_40
+  - first:
+      213: 5255096663872286235
+    second: PurifyPond_41
+  - first:
+      213: -5415693293512028407
+    second: PurifyPond_42
+  - first:
+      213: 847231317149881867
+    second: PurifyPond_43
+  - first:
+      213: -581538613317997015
+    second: PurifyPond_44
+  - first:
+      213: 5175596651369828060
+    second: PurifyPond_45
+  - first:
+      213: -8788258913052466256
+    second: PurifyPond_46
+  - first:
+      213: 2243606965116949121
+    second: PurifyPond_47
+  - first:
+      213: -8333212273732486812
+    second: PurifyPond_48
+  - first:
+      213: 2562322177756835527
+    second: PurifyPond_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurifyPond_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7380
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe26a8f97df3b20800000000000000
+      internalID: 3116446547385184084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_1
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 7380
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fff400297c51d320800000000000000
+      internalID: 2580945736758001649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_2
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 7380
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864eaddbd8fdd1d30800000000000000
+      internalID: 4403921810506835048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_3
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 7380
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20ee576ab51a1180800000000000000
+      internalID: -9143972203079999444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_4
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 7380
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658157299db4009f0800000000000000
+      internalID: -504319760428361642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6560
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e25b3772db817280800000000000000
+      internalID: -9047296440350846239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 6560
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7640dfb76a1dca4a0800000000000000
+      internalID: -6580654442520181657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 6560
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29c872617e0acd0800000000000000
+      internalID: -2548783306752879880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_8
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 6560
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68efcd35c6f2087c0800000000000000
+      internalID: -4071201920832962938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_9
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 6560
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d37dffc467aff20800000000000000
+      internalID: 3457205737042165138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5740
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b61dc64897a4e810800000000000000
+      internalID: 1793742824065013427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 5740
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd7f0343fddedbc0800000000000000
+      internalID: -3756321002308534863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_12
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 5740
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef2023eb6402df0800000000000000
+      internalID: -207087800162255199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_13
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 5740
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c748614421649a70800000000000000
+      internalID: 8832791577524455360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_14
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 5740
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b68e041f00e442b0800000000000000
+      internalID: -5601105681176426823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4920
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d04d68accc8a30800000000000000
+      internalID: 4218971974698849755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_16
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 4920
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c370ef11fcb4c110800000000000000
+      internalID: 1280355937888007109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 4920
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382ddce87fa4086d0800000000000000
+      internalID: -2990307725460778365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_18
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 4920
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d58595ae5c0790800000000000000
+      internalID: -7562565608990714796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_19
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 4920
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88550ae3e4e9645d0800000000000000
+      internalID: -3078599236365822584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4100
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a1663c7cdb8000800000000000000
+      internalID: 39367447809204598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 4100
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aaae30fd8c9ec90800000000000000
+      internalID: -7139954874050237863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 4100
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60b02dd7f3a414c0800000000000000
+      internalID: -4317645857779306388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_23
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 4100
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca19a33c4965b490800000000000000
+      internalID: -7731157409306436923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_24
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 4100
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e76d99ff3d81a0800000000000000
+      internalID: -6805713120566712811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3280
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8afd4b45b7ccd450800000000000000
+      internalID: 6114981975528700557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_26
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3280
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc698f7c7a46360800000000000000
+      internalID: 7162033784736894929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_27
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 3280
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f05d5641fbcf460800000000000000
+      internalID: 7276901192252591992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_28
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 3280
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a27bac6b29212c70800000000000000
+      internalID: 8944475601418023590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_29
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 3280
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bcdc8ed95e78f20800000000000000
+      internalID: 3424958508016978815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2460
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c99f4facd430aaf0800000000000000
+      internalID: -387251445515183671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_31
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2460
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19749381ee180dc50800000000000000
+      internalID: 6687988306253793169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_32
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2460
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef4622820e8ebb0800000000000000
+      internalID: -4906425331039797731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_33
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2460
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1743b0c5a6d5a1e20800000000000000
+      internalID: 3322070386531316849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_34
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2460
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f55786740129c80800000000000000
+      internalID: -8317567662918639736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ad9f4949a0f4120800000000000000
+      internalID: 2400148759682603547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_36
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1640
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf611d74292104f0800000000000000
+      internalID: -864364416784568394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_37
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1640
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb59873eeabc0880800000000000000
+      internalID: -8643328052534092838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_38
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1640
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db31534b99f013f80800000000000000
+      internalID: -8128698699599244355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_39
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 1640
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60300ab5beedcb80800000000000000
+      internalID: -8372773667934818196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675f66f288b9c390800000000000000
+      internalID: -7797498407195551897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_41
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 820
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ea276b29adde840800000000000000
+      internalID: 5255096663872286235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_42
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 820
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f00c3a4a797d4b0800000000000000
+      internalID: -5415693293512028407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_43
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 820
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b061e45e468f1cb00800000000000000
+      internalID: 847231317149881867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_44
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 820
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee10a56b5fde7f0800000000000000
+      internalID: -581538613317997015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde8991abb963d740800000000000000
+      internalID: 5175596651369828060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_46
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e85da415d90680800000000000000
+      internalID: -8788258913052466256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_47
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182536bc5a4e22f10800000000000000
+      internalID: 2243606965116949121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_48
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 0
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469ff3a969b7a5c80800000000000000
+      internalID: -8333212273732486812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurifyPond_49
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 0
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce2d45e1723f8320800000000000000
+      internalID: 2562322177756835527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4995f0154ac9402c94a30320e9a7424
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":10.0},"gridSpriteSize":{"x":820.0,"y":820.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PurifyPond_0: 3116446547385184084
+      PurifyPond_1: 2580945736758001649
+      PurifyPond_10: 1793742824065013427
+      PurifyPond_11: -3756321002308534863
+      PurifyPond_12: -207087800162255199
+      PurifyPond_13: 8832791577524455360
+      PurifyPond_14: -5601105681176426823
+      PurifyPond_15: 4218971974698849755
+      PurifyPond_16: 1280355937888007109
+      PurifyPond_17: -2990307725460778365
+      PurifyPond_18: -7562565608990714796
+      PurifyPond_19: -3078599236365822584
+      PurifyPond_2: 4403921810506835048
+      PurifyPond_20: 39367447809204598
+      PurifyPond_21: -7139954874050237863
+      PurifyPond_22: -4317645857779306388
+      PurifyPond_23: -7731157409306436923
+      PurifyPond_24: -6805713120566712811
+      PurifyPond_25: 6114981975528700557
+      PurifyPond_26: 7162033784736894929
+      PurifyPond_27: 7276901192252591992
+      PurifyPond_28: 8944475601418023590
+      PurifyPond_29: 3424958508016978815
+      PurifyPond_3: -9143972203079999444
+      PurifyPond_30: -387251445515183671
+      PurifyPond_31: 6687988306253793169
+      PurifyPond_32: -4906425331039797731
+      PurifyPond_33: 3322070386531316849
+      PurifyPond_34: -8317567662918639736
+      PurifyPond_35: 2400148759682603547
+      PurifyPond_36: -864364416784568394
+      PurifyPond_37: -8643328052534092838
+      PurifyPond_38: -8128698699599244355
+      PurifyPond_39: -8372773667934818196
+      PurifyPond_4: -504319760428361642
+      PurifyPond_40: -7797498407195551897
+      PurifyPond_41: 5255096663872286235
+      PurifyPond_42: -5415693293512028407
+      PurifyPond_43: 847231317149881867
+      PurifyPond_44: -581538613317997015
+      PurifyPond_45: 5175596651369828060
+      PurifyPond_46: -8788258913052466256
+      PurifyPond_47: 2243606965116949121
+      PurifyPond_48: -8333212273732486812
+      PurifyPond_49: 2562322177756835527
+      PurifyPond_5: -9047296440350846239
+      PurifyPond_6: -6580654442520181657
+      PurifyPond_7: -2548783306752879880
+      PurifyPond_8: -4071201920832962938
+      PurifyPond_9: 3457205737042165138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

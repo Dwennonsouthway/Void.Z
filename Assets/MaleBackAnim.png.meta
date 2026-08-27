@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: be2816443ff1e41be894cd373fb3e304
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3873931054015170417
+    second: MaleBackAnim_0
+  - first:
+      213: -4766743930313564257
+    second: MaleBackAnim_1
+  - first:
+      213: 4349170540369037068
+    second: MaleBackAnim_2
+  - first:
+      213: -5536628309688462282
+    second: MaleBackAnim_3
+  - first:
+      213: -6300677889143018732
+    second: MaleBackAnim_4
+  - first:
+      213: 7634825029036202257
+    second: MaleBackAnim_5
+  - first:
+      213: 6005148261297152401
+    second: MaleBackAnim_6
+  - first:
+      213: -6336347447245306743
+    second: MaleBackAnim_7
+  - first:
+      213: 5831901452539139053
+    second: MaleBackAnim_8
+  - first:
+      213: 2372589068364820526
+    second: MaleBackAnim_9
+  - first:
+      213: -1659942424993402608
+    second: MaleBackAnim_10
+  - first:
+      213: 7542192534596257954
+    second: MaleBackAnim_11
+  - first:
+      213: 4966291714895754197
+    second: MaleBackAnim_12
+  - first:
+      213: -3191495221010498282
+    second: MaleBackAnim_13
+  - first:
+      213: -1240953545399965702
+    second: MaleBackAnim_14
+  - first:
+      213: 7294752199896534823
+    second: MaleBackAnim_15
+  - first:
+      213: -2055221795363177372
+    second: MaleBackAnim_16
+  - first:
+      213: 2352737431800649819
+    second: MaleBackAnim_17
+  - first:
+      213: -3987234307612884860
+    second: MaleBackAnim_18
+  - first:
+      213: 5868956159280550500
+    second: MaleBackAnim_19
+  - first:
+      213: -2244984297176520835
+    second: MaleBackAnim_20
+  - first:
+      213: 2162928509777101251
+    second: MaleBackAnim_21
+  - first:
+      213: -2627287657683094406
+    second: MaleBackAnim_22
+  - first:
+      213: -1807459645510012112
+    second: MaleBackAnim_23
+  - first:
+      213: -6620709959662396636
+    second: MaleBackAnim_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 290
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaleBackAnim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2712
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177cde6c4c7f2c530800000000000000
+      internalID: 3873931054015170417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2712
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f196296af19ddb0800000000000000
+      internalID: -4766743930313564257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2712
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c074a46409b5b5c30800000000000000
+      internalID: 4349170540369037068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2712
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d5abf2e1f923b0800000000000000
+      internalID: -5536628309688462282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2712
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be87d97de7f88a0800000000000000
+      internalID: -6300677889143018732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2035
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119d6f1b9e854f960800000000000000
+      internalID: 7634825029036202257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2035
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191eb2ae682965350800000000000000
+      internalID: 6005148261297152401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_7
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2035
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9848d717195c018a0800000000000000
+      internalID: -6336347447245306743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2035
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31eabe8731fe050800000000000000
+      internalID: 5831901452539139053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_9
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2035
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e203cd9ef212de020800000000000000
+      internalID: 2372589068364820526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1358
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011faa2c823b6f8e0800000000000000
+      internalID: -1659942424993402608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1358
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8863466204ba860800000000000000
+      internalID: 7542192534596257954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_12
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1358
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b35d8000dbe440800000000000000
+      internalID: 4966291714895754197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1358
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dff49710885b3d0800000000000000
+      internalID: -3191495221010498282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_14
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1358
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76ca7435f37cee0800000000000000
+      internalID: -1240953545399965702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f055ff97a2c3560800000000000000
+      internalID: 7294752199896534823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 681
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cbcb88aa26a73e0800000000000000
+      internalID: -2055221795363177372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 681
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b581e389a3a96a020800000000000000
+      internalID: 2352737431800649819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 681
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480cb72c58f7aa8c0800000000000000
+      internalID: -3987234307612884860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_19
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 681
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46212442888b27150800000000000000
+      internalID: 5868956159280550500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77a6781da638d0e0800000000000000
+      internalID: -2244984297176520835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c144db1504440e10800000000000000
+      internalID: 2162928509777101251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_22
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 4
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f7099bcff98bd0800000000000000
+      internalID: -2627287657683094406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_23
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 4
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b58b570d9ae6e0800000000000000
+      internalID: -1807459645510012112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBackAnim_24
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 4
+        width: 544
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b9e65ae538e14a0800000000000000
+      internalID: -6620709959662396636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2803b385c767341c7a5e3d77d66ac7df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":544.0,"y":677.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MaleBackAnim_0: 3873931054015170417
+      MaleBackAnim_1: -4766743930313564257
+      MaleBackAnim_10: -1659942424993402608
+      MaleBackAnim_11: 7542192534596257954
+      MaleBackAnim_12: 4966291714895754197
+      MaleBackAnim_13: -3191495221010498282
+      MaleBackAnim_14: -1240953545399965702
+      MaleBackAnim_15: 7294752199896534823
+      MaleBackAnim_16: -2055221795363177372
+      MaleBackAnim_17: 2352737431800649819
+      MaleBackAnim_18: -3987234307612884860
+      MaleBackAnim_19: 5868956159280550500
+      MaleBackAnim_2: 4349170540369037068
+      MaleBackAnim_20: -2244984297176520835
+      MaleBackAnim_21: 2162928509777101251
+      MaleBackAnim_22: -2627287657683094406
+      MaleBackAnim_23: -1807459645510012112
+      MaleBackAnim_24: -6620709959662396636
+      MaleBackAnim_3: -5536628309688462282
+      MaleBackAnim_4: -6300677889143018732
+      MaleBackAnim_5: 7634825029036202257
+      MaleBackAnim_6: 6005148261297152401
+      MaleBackAnim_7: -6336347447245306743
+      MaleBackAnim_8: 5831901452539139053
+      MaleBackAnim_9: 2372589068364820526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

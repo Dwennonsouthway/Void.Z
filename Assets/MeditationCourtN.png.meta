@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: f08314184dbc543449e4cfb90bb47ca7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1900161165318683078
+    second: MeditationCourtN_0
+  - first:
+      213: -7323028622824009909
+    second: MeditationCourtN_1
+  - first:
+      213: -8963510927742332835
+    second: MeditationCourtN_2
+  - first:
+      213: -6041878059016279011
+    second: MeditationCourtN_3
+  - first:
+      213: -4381948918498521699
+    second: MeditationCourtN_4
+  - first:
+      213: 1017839037130242243
+    second: MeditationCourtN_5
+  - first:
+      213: 3408439453272036408
+    second: MeditationCourtN_6
+  - first:
+      213: -7411363515547803717
+    second: MeditationCourtN_7
+  - first:
+      213: 1178275552878152675
+    second: MeditationCourtN_8
+  - first:
+      213: -5080789560153403594
+    second: MeditationCourtN_9
+  - first:
+      213: -3940581709370857887
+    second: MeditationCourtN_10
+  - first:
+      213: 2513538873173755545
+    second: MeditationCourtN_11
+  - first:
+      213: -3040955334991405257
+    second: MeditationCourtN_12
+  - first:
+      213: 2480231391887071818
+    second: MeditationCourtN_13
+  - first:
+      213: 4377139365050823328
+    second: MeditationCourtN_14
+  - first:
+      213: 9083892221626318869
+    second: MeditationCourtN_15
+  - first:
+      213: 4720181677990785949
+    second: MeditationCourtN_16
+  - first:
+      213: 5073903114990089549
+    second: MeditationCourtN_17
+  - first:
+      213: -856044828280726484
+    second: MeditationCourtN_18
+  - first:
+      213: -5684157263785009499
+    second: MeditationCourtN_19
+  - first:
+      213: -6982734160562159539
+    second: MeditationCourtN_20
+  - first:
+      213: -5374856377276385589
+    second: MeditationCourtN_21
+  - first:
+      213: 7142832071718848597
+    second: MeditationCourtN_22
+  - first:
+      213: -2839306121090142312
+    second: MeditationCourtN_23
+  - first:
+      213: 3174560013944982282
+    second: MeditationCourtN_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeditationCourtN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3208
+        width: 798
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ffca238abe5a10800000000000000
+      internalID: 1900161165318683078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3207
+        width: 799
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f8e8044406f5a90800000000000000
+      internalID: -7323028622824009909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3207
+        width: 799
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50169b4d463b9380800000000000000
+      internalID: -8963510927742332835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3206
+        width: 799
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cab14aaefe62ca0800000000000000
+      internalID: -6041878059016279011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3206
+        width: 799
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d0df8dca03033c0800000000000000
+      internalID: -4381948918498521699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2405
+        width: 799
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c87ca62637102e00800000000000000
+      internalID: 1017839037130242243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2404
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834d4b2cf953d4f20800000000000000
+      internalID: 3408439453272036408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2404
+        width: 800
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf9b72562c852990800000000000000
+      internalID: -7411363515547803717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2403
+        width: 799
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb44d06f531a5010800000000000000
+      internalID: 1178275552878152675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2402
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f0b8070d86d79b0800000000000000
+      internalID: -5080789560153403594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1602
+        width: 800
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1666c8c30dd3059c0800000000000000
+      internalID: -3940581709370857887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1601
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99648a0b942e1e220800000000000000
+      internalID: 2513538873173755545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1601
+        width: 799
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f12080c3b5cc5d0800000000000000
+      internalID: -3040955334991405257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 799
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a93326f4d8b6220800000000000000
+      internalID: 2480231391887071818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_14
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1600
+        width: 798
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2bb3abf09bebc30800000000000000
+      internalID: 4377139365050823328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 799
+        width: 798
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51088f7d8d7701e70800000000000000
+      internalID: 9083892221626318869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_16
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 799
+        width: 798
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93b2ff3a34718140800000000000000
+      internalID: 4720181677990785949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_17
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 798
+        width: 798
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457bb910002a6640800000000000000
+      internalID: 5073903114990089549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_18
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 798
+        width: 798
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c5482a3c7be14f0800000000000000
+      internalID: -856044828280726484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_19
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 797
+        width: 798
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae53a4a511dd11b0800000000000000
+      internalID: -5684157263785009499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 798
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4005bee648581f90800000000000000
+      internalID: -6982734160562159539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_21
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 798
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6b2b12a9ca865b0800000000000000
+      internalID: -5374856377276385589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_22
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 0
+        width: 798
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c115ccef602360800000000000000
+      internalID: 7142832071718848597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_23
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 0
+        width: 798
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f64db4022c898d0800000000000000
+      internalID: -2839306121090142312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeditationCourtN_24
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 0
+        width: 797
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b895d538d4e0c20800000000000000
+      internalID: 3174560013944982282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MeditationCourtN_0: 1900161165318683078
+      MeditationCourtN_1: -7323028622824009909
+      MeditationCourtN_10: -3940581709370857887
+      MeditationCourtN_11: 2513538873173755545
+      MeditationCourtN_12: -3040955334991405257
+      MeditationCourtN_13: 2480231391887071818
+      MeditationCourtN_14: 4377139365050823328
+      MeditationCourtN_15: 9083892221626318869
+      MeditationCourtN_16: 4720181677990785949
+      MeditationCourtN_17: 5073903114990089549
+      MeditationCourtN_18: -856044828280726484
+      MeditationCourtN_19: -5684157263785009499
+      MeditationCourtN_2: -8963510927742332835
+      MeditationCourtN_20: -6982734160562159539
+      MeditationCourtN_21: -5374856377276385589
+      MeditationCourtN_22: 7142832071718848597
+      MeditationCourtN_23: -2839306121090142312
+      MeditationCourtN_24: 3174560013944982282
+      MeditationCourtN_3: -6041878059016279011
+      MeditationCourtN_4: -4381948918498521699
+      MeditationCourtN_5: 1017839037130242243
+      MeditationCourtN_6: 3408439453272036408
+      MeditationCourtN_7: -7411363515547803717
+      MeditationCourtN_8: 1178275552878152675
+      MeditationCourtN_9: -5080789560153403594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

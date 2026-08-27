@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: f8a9ca118d57a4dc381b7d7381878ad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3825027841315604362
+    second: MaleBongSheet_0
+  - first:
+      213: 4030323422144520849
+    second: MaleBongSheet_1
+  - first:
+      213: 4152838947218789881
+    second: MaleBongSheet_2
+  - first:
+      213: -8713379314392914722
+    second: MaleBongSheet_3
+  - first:
+      213: 8987455002063905303
+    second: MaleBongSheet_4
+  - first:
+      213: -651315163248466957
+    second: MaleBongSheet_5
+  - first:
+      213: 1426029976745777203
+    second: MaleBongSheet_6
+  - first:
+      213: 2164877918682709675
+    second: MaleBongSheet_7
+  - first:
+      213: 6440855505521418246
+    second: MaleBongSheet_8
+  - first:
+      213: -688187871048056623
+    second: MaleBongSheet_9
+  - first:
+      213: -7989143128956768162
+    second: MaleBongSheet_10
+  - first:
+      213: 7855993015029624268
+    second: MaleBongSheet_11
+  - first:
+      213: 3941441376229951761
+    second: MaleBongSheet_12
+  - first:
+      213: 4865052624098722265
+    second: MaleBongSheet_13
+  - first:
+      213: -5010291798624278311
+    second: MaleBongSheet_14
+  - first:
+      213: 6107397207102443207
+    second: MaleBongSheet_15
+  - first:
+      213: -7844087077419100219
+    second: MaleBongSheet_16
+  - first:
+      213: -8298442298971007654
+    second: MaleBongSheet_17
+  - first:
+      213: 7004360541785584249
+    second: MaleBongSheet_18
+  - first:
+      213: 1452538759692405374
+    second: MaleBongSheet_19
+  - first:
+      213: 3680245549558107843
+    second: MaleBongSheet_20
+  - first:
+      213: -3384716341393394126
+    second: MaleBongSheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaleBongSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.44709823, y: 0.48310807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6787766b175caeac0800000000000000
+      internalID: -3825027841315604362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.35716525, y: 0.4831081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1926cd28cc59ee730800000000000000
+      internalID: 4030323422144520849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.29368314, y: 0.48310807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f512621509d1a930800000000000000
+      internalID: 4152838947218789881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 808
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.21433048, y: 0.4831081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4af54ddabd31780800000000000000
+      internalID: -8713379314392914722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.4365179, y: 0.58445936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712a3d0f4bad9bc70800000000000000
+      internalID: 8987455002063905303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.3677456, y: 0.5788287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3efb15f4016f6f0800000000000000
+      internalID: -651315163248466957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.28839296, y: 0.5788287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3389dfa55b64ac310800000000000000
+      internalID: 1426029976745777203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 404
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.20904058, y: 0.5788287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae7b2d3ff03b0e10800000000000000
+      internalID: 2164877918682709675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.44180804, y: 0.62950444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600293805f3826950800000000000000
+      internalID: 6440855505521418246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleBongSheet_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 430
+        height: 404
+      alignment: 9
+      pivot: {x: 0.36245543, y: 0.6238738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0c27707c01376f0800000000000000
+      internalID: -688187871048056623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 597107f94c11148f190002a0ef1526d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":3.0},"gridSpriteSize":{"x":430.0,"y":404.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MaleBongSheet_0: -3825027841315604362
+      MaleBongSheet_1: 4030323422144520849
+      MaleBongSheet_2: 4152838947218789881
+      MaleBongSheet_3: -8713379314392914722
+      MaleBongSheet_4: 8987455002063905303
+      MaleBongSheet_5: -651315163248466957
+      MaleBongSheet_6: 1426029976745777203
+      MaleBongSheet_7: 2164877918682709675
+      MaleBongSheet_8: 6440855505521418246
+      MaleBongSheet_9: -688187871048056623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

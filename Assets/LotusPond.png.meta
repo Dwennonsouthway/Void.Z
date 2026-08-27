@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 4c970e0f6572b4ca38eb70da673769f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5217197351162155179
+    second: LotusPond_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LotusPond_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6368
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba011275955376840800000000000000
+      internalID: 5217197351162155179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_1
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 6368
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.501, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb553107d854b03a9584b5975086a2
+      internalID: 1493626278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_2
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 6368
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.501, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33449b00ef1444a4589f2ee3d932aa75
+      internalID: -1269967091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_3
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 6368
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.502, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95db3ff269e6474db3b792415b0d880
+      internalID: 76462904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_4
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 6368
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.502, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab19cf1d19a4631be0c8364ac3f589
+      internalID: -573377004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5661
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825c8bbc25f714dbf8c5255b5e07df43
+      internalID: 2128520988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_6
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 5661
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.5, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc476ca45271a42c5baebd3375624a54
+      internalID: 328872583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_7
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 5661
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.501, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885bd7bca1e64f8aa3fbd44e863a354
+      internalID: -1331768894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_8
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 5661
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.502, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57c4bb747014d90849cc2254ad956e
+      internalID: -479033741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_9
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 5661
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.502, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9af615935f345f89328648456e28a1
+      internalID: 2107013334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4954
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.499, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e165954e8d5b48989ce1e8904d2bff2
+      internalID: -1026431873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 4954
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.5, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6991f4aa83fd4306b760a2269e16d2f
+      internalID: -1361835695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_12
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 4954
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.5, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29257e163bcf542afaa76e3aed8ec595
+      internalID: 1287658492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_13
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 4954
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.501, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb820d9fcaea248d28460d17c267eada
+      internalID: -1051745167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_14
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 4954
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.501, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360729b03541742b2aaf74cc8347294b
+      internalID: -1542182634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4247
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.498, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583403c7ab9b9436a84c6af0c3e1534a
+      internalID: 1786390413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_16
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 4247
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.5, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc22fb4532c14978a5d8fed61154aff
+      internalID: 489645210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_17
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 4247
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.501, y: 0.497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338418391894740898f99f8605e43506
+      internalID: 775868155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_18
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 4247
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.502, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58459bb2813714edea4f3e7db9950ff9
+      internalID: 1323166132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_19
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 4247
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.501, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb521630a8a4c38ade31f60c0ae3a2
+      internalID: 762276814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3540
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.498, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f891dac22241c281b169f7a5f276b
+      internalID: -1567378735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_21
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 3540
+        width: 706
+        height: 707
+      alignment: 9
+      pivot: {x: 0.5, y: 0.498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9badc26a2c225447c93fe6b1fec31d6e
+      internalID: -1469412396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_22
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 3540
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013511c8055e146008e74bc5b6bff93b
+      internalID: -1481480853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_23
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3540
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2b35029c5784496a5f0a357da760c6
+      internalID: -1900250813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_24
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 3540
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e30e8afb45cd451baf2554794606eb6
+      internalID: 1768233468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2833
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741e4adf301c4ae2a161534cfc4a560
+      internalID: 890849681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2833
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25933604edc9b4081a21f53682bf4827
+      internalID: 253971113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_27
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2833
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430b5f49dfeb44bd9f96b4914a533da
+      internalID: -809211853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_28
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2833
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c73c1f4ae1b4c88ae4d2d9d98466a2
+      internalID: -241693598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_29
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 2833
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d3226cfe3a4c6baab560426bca513
+      internalID: 879719009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2126
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26faec546a4ab4025818623498b32ce1
+      internalID: 1080208156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_31
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2126
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dceb8795c8f46de882a680c3c3d20b
+      internalID: 652051950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_32
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2126
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed1ccccde0274cdeb89af4ba40f4861
+      internalID: 1100150756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_33
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2126
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64515441de76b48d88aae0bc63602261
+      internalID: -2057543051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_34
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 2126
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6c9e85d6fc4a1d8a72ed6a80e5d7c
+      internalID: 1400650689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1419
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d98cbae0b7004da594e3df608900fce
+      internalID: 1132902439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_36
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1419
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d088ea71f48a425d8ca2f7b95a65eea
+      internalID: -1228788927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_37
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1419
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f54566bf401a443180aebd94032478c
+      internalID: 363361663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_38
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1419
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed64eea7aa24410383438d5a7a66c23
+      internalID: 239308866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_39
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1419
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dace72c6a9f4079a03302633f4f974
+      internalID: 1780937151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf62b3f44f24a50b2afd928b02380d
+      internalID: 1156652776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_41
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 712
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f1c8f2843f94dc7980666b65848d44
+      internalID: 179714712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_42
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 712
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf69ca2c999794a31ba52bf1467c83bb
+      internalID: 1116391863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_43
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 712
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd3f5922eee74ba9b235f0d265c9352
+      internalID: -1280423370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_44
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 712
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb5ed70226374c0eb3b5921a134e549
+      internalID: 2146535279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65846183ec909420f954843274b708a8
+      internalID: 509461572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_46
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 5
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88645645ad794122bbd5b3a04e4c9bf
+      internalID: 683398517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_47
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 5
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25216a33fc464ed584a233a919a3e91
+      internalID: 940144801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_48
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 5
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9622a5124c54146a9f558c241046bc
+      internalID: 1986376020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LotusPond_49
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 5
+        width: 706
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2587c1cf25a42d8ae515fff304bfb3
+      internalID: -435246197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e06444faf37044209d2d08885d0f182
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":10.0},"gridSpriteSize":{"x":706.0,"y":707.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LotusPond_0: 5217197351162155179
+      LotusPond_1: 1493626278
+      LotusPond_10: -1026431873
+      LotusPond_11: -1361835695
+      LotusPond_12: 1287658492
+      LotusPond_13: -1051745167
+      LotusPond_14: -1542182634
+      LotusPond_15: 1786390413
+      LotusPond_16: 489645210
+      LotusPond_17: 775868155
+      LotusPond_18: 1323166132
+      LotusPond_19: 762276814
+      LotusPond_2: -1269967091
+      LotusPond_20: -1567378735
+      LotusPond_21: -1469412396
+      LotusPond_22: -1481480853
+      LotusPond_23: -1900250813
+      LotusPond_24: 1768233468
+      LotusPond_25: 890849681
+      LotusPond_26: 253971113
+      LotusPond_27: -809211853
+      LotusPond_28: -241693598
+      LotusPond_29: 879719009
+      LotusPond_3: 76462904
+      LotusPond_30: 1080208156
+      LotusPond_31: 652051950
+      LotusPond_32: 1100150756
+      LotusPond_33: -2057543051
+      LotusPond_34: 1400650689
+      LotusPond_35: 1132902439
+      LotusPond_36: -1228788927
+      LotusPond_37: 363361663
+      LotusPond_38: 239308866
+      LotusPond_39: 1780937151
+      LotusPond_4: -573377004
+      LotusPond_40: 1156652776
+      LotusPond_41: 179714712
+      LotusPond_42: 1116391863
+      LotusPond_43: -1280423370
+      LotusPond_44: 2146535279
+      LotusPond_45: 509461572
+      LotusPond_46: 683398517
+      LotusPond_47: 940144801
+      LotusPond_48: 1986376020
+      LotusPond_49: -435246197
+      LotusPond_5: 2128520988
+      LotusPond_6: 328872583
+      LotusPond_7: -1331768894
+      LotusPond_8: -479033741
+      LotusPond_9: 2107013334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
