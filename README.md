@@ -9,7 +9,7 @@ What starts as breathing exercises and quiet stillness slowly reveals itself to 
 macOS may block the app on first launch. If you see "cannot be opened because the developer cannot be verified", run this in Terminal:
 
 ```bash
-xattr -cr Void.Zen.app
+xattr -cr MacVoid.Zen.app
 ```
 
 Then open the app normally.
