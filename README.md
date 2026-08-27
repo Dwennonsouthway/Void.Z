@@ -4,6 +4,11 @@ Void.Zen is a narrative puzzle game about a presence that shouldn't know you thi
 
 What starts as breathing exercises and quiet stillness slowly reveals itself to be something else entirely. You'll find yourself breaking into a system that was never meant to be seen — piecing together fragments, chasing signals that reach further than they should.
 
+## 🎮 Game Downloads (v1.0.0)
+🪟 [Download Windows 64-bit Demo](https://github.com/Dwennonsouthway/Void.Z/releases/download/v1.0.0/VoidZen_Setup.exe)
+
+🍎 [Download macOS Demo](https://github.com/Dwennonsouthway/Void.Z/releases/download/v1.0.0/MacVoid.zip)
+
 ## Playing on macOS
 
 macOS may block the app on first launch. If you see "cannot be opened because the developer cannot be verified", run this in Terminal:
@@ -18,10 +23,10 @@ Then open the app normally.
 
 | Ending | Trigger |
 |--------|---------|
-| **Clean** | Delete the entity via the terminal (`rm -rf ENTITY`) |
+| **Clean** | Delete the entity via the terminal |
 | **Purify** | Complete the purification ritual in the void space |
-| **Consumed** | Identify the shadow NPC by name — become part of the app |
-| **Ending D** | Return after being consumed. Three sessions. No escape. |
+| **Consumed** | Identify the shadow NPC by name |
+
 
 ## Structure
 
