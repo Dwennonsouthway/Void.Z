@@ -59,3 +59,7 @@ mono_crash.*
 # Runtime generated (game-specific)
 soul_733.txt
 deleted.lock
+
+# Audio
+*.mp3
+*.mp3.meta
